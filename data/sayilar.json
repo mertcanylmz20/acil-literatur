@@ -187,5 +187,207 @@
         "sayi": 2
       }
     ]
+  },
+  {
+    "no": 3,
+    "tarih": "2026-08-26",
+    "kayitlar": [
+      {
+        "pmid": "42624516",
+        "baslik": "Head positioning after endovascular therapy for acute stroke due to large vessel occlusion (HeadSOAR): multicentre randomised controlled trial.",
+        "dergi": "BMJ",
+        "doi": "10.1136/bmj-2026-100363",
+        "tipler": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Endovascular Procedures",
+          "Male",
+          "Aged",
+          "Thrombectomy",
+          "Middle Aged",
+          "Prospective Studies",
+          "Treatment Outcome",
+          "Ischemic Stroke",
+          "Head",
+          "Stroke",
+          "China"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "20",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 20,
+        "konular": [
+          "Nöroloji"
+        ],
+        "eklendi": "2026-08-26",
+        "sayi": 3
+      },
+      {
+        "pmid": "42627661",
+        "baslik": "Mobile Integrated Health and Post-Hospital Discharge Heart Failure Care.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.30229",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Heart Failure",
+          "Female",
+          "Male",
+          "Telemedicine",
+          "Aged",
+          "Middle Aged",
+          "Patient Discharge",
+          "Qualitative Research",
+          "Delivery of Health Care, Integrated",
+          "Digital Health"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 18,
+        "konular": [
+          "Kardiyoloji"
+        ],
+        "eklendi": "2026-08-26",
+        "sayi": 3
+      },
+      {
+        "pmid": "42640641",
+        "baslik": "Safety and Preliminary Efficacy of Dengue Monoclonal Antibody in Adult Patients: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.29979",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Adult",
+          "Male",
+          "Antibodies, Monoclonal",
+          "Dengue",
+          "Female",
+          "Single-Blind Method",
+          "Middle Aged",
+          "Young Adult",
+          "Adolescent",
+          "Treatment Outcome",
+          "Dengue Virus",
+          "Viremia",
+          "India"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-08-26",
+        "sayi": 3
+      },
+      {
+        "pmid": "42624156",
+        "baslik": "Liver resection after atezolizumab and bevacizumab versus maintenance therapy for locally advanced hepatocellular carcinoma (TALENTOP): a multicentre, open-label, randomised, phase 3 trial.",
+        "dergi": "Lancet",
+        "doi": "10.1016/S0140-6736(26)01252-3",
+        "tipler": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III"
+        ],
+        "mesh": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Antibodies, Monoclonal, Humanized",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Bevacizumab",
+          "Carcinoma, Hepatocellular",
+          "China",
+          "Hepatectomy",
+          "Liver Neoplasms",
+          "Maintenance Chemotherapy"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "22",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-08-26",
+        "sayi": 3
+      },
+      {
+        "pmid": "42623571",
+        "baslik": "Effect of Baseline ASPECTS on Tenecteplase Efficacy Before Thrombectomy in Acute Large-Vessel Occlusion Stroke: A Post Hoc Analysis of the BRIDGE-TNK Randomized Trial.",
+        "dergi": "Neurology",
+        "doi": "10.1212/WNL.0000000000218467",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Tenecteplase",
+          "Thrombectomy",
+          "Fibrinolytic Agents",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Ischemic Stroke",
+          "Aged",
+          "Treatment Outcome",
+          "Tissue Plasminogen Activator",
+          "Stroke",
+          "Bridge Therapy"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "22",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "B dergisi +3",
+          "öncelikli konu +4"
+        ],
+        "puan": 15,
+        "konular": [
+          "Nöroloji"
+        ],
+        "eklendi": "2026-08-26",
+        "sayi": 3
+      }
+    ]
   }
 ]
