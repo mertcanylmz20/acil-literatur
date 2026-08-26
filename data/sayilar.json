@@ -1,7 +1,7 @@
 [
   {
     "no": 1,
-    "tarih": "2026-08-28",
+    "tarih": "2026-08-14",
     "kayitlar": [
       {
         "pmid": "",
@@ -19,7 +19,7 @@
         "konular": [
           "Havayolu"
         ],
-        "eklendi": "2026-08-28",
+        "eklendi": "2026-08-14",
         "sayi": 1
       },
       {
@@ -39,7 +39,7 @@
         "konular": [
           "Resüsitasyon"
         ],
-        "eklendi": "2026-08-28",
+        "eklendi": "2026-08-14",
         "sayi": 1
       },
       {
@@ -59,7 +59,7 @@
         "konular": [
           "Havayolu"
         ],
-        "eklendi": "2026-08-28",
+        "eklendi": "2026-08-14",
         "sayi": 1
       },
       {
@@ -79,7 +79,7 @@
         "konular": [
           "Travma"
         ],
-        "eklendi": "2026-08-28",
+        "eklendi": "2026-08-14",
         "sayi": 1
       },
       {
@@ -99,14 +99,14 @@
         "konular": [
           "Nöroloji"
         ],
-        "eklendi": "2026-08-28",
+        "eklendi": "2026-08-14",
         "sayi": 1
       }
     ]
   },
   {
     "no": 2,
-    "tarih": "2026-09-04",
+    "tarih": "2026-08-21",
     "kayitlar": [
       {
         "pmid": "",
@@ -124,7 +124,7 @@
         "konular": [
           "Travma"
         ],
-        "eklendi": "2026-09-04",
+        "eklendi": "2026-08-21",
         "sayi": 2
       },
       {
@@ -144,7 +144,7 @@
         "konular": [
           "Havayolu"
         ],
-        "eklendi": "2026-09-04",
+        "eklendi": "2026-08-21",
         "sayi": 2
       },
       {
@@ -163,7 +163,7 @@
         "konular": [
           "Travma"
         ],
-        "eklendi": "2026-09-04",
+        "eklendi": "2026-08-21",
         "sayi": 2
       },
       {
@@ -183,7 +183,7 @@
         "konular": [
           "Solunum"
         ],
-        "eklendi": "2026-09-04",
+        "eklendi": "2026-08-21",
         "sayi": 2
       }
     ]
