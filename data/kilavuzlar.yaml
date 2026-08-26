@@ -1,0 +1,46 @@
+# Kılavuz listesi — elle güncellenir, otomatik taranmaz.
+#
+# ÖNEMLİ: "geçerli kılavuz" iddiası yok. Sadece kılavuzun adı, yılı ve linki
+# gösterilir. Yaş rozeti yıldan otomatik hesaplanır.
+#
+# Yeni kılavuz çıktığında: eskisini silmeyin, yenisini üste ekleyin ve
+# eskisinin adına "(önceki sürüm)" yazın. Okuyucu geçişi görsün.
+
+son_kontrol: "2026-08-26"
+
+konular:
+  - baslik: "Resüsitasyon"
+    kayitlar:
+      - ad: "Kardiyak arrest — ERC"
+        yil: 2021
+        not: "Avrupa Resüsitasyon Konseyi"
+        link: "https://www.erc.edu/guidelines"
+      - ad: "Post-arrest bakım — ERC/ESICM"
+        yil: 2021
+        not: ""
+        link: "https://www.erc.edu/guidelines"
+
+  - baslik: "Sepsis ve şok"
+    kayitlar:
+      - ad: "Sepsis ve septik şok — Surviving Sepsis Campaign"
+        yil: 2026
+        not: "129 öneri, 46'sı yeni"
+        link: "https://www.sccm.org/survivingsepsiscampaign"
+
+  - baslik: "Havayolu"
+    kayitlar:
+      - ad: "Acil serviste havayolu yönetimi — EMAT"
+        yil: 2026
+        not: "Türkiye Acil Tıp Derneği"
+        link: "https://doi.org/10.4103/tjem.tjem_12_26"
+
+  - baslik: "Travma"
+    kayitlar:
+      - ad: "Majör kanama ve koagülopati — Avrupa kılavuzu"
+        yil: 2023
+        not: "6. güncelleme"
+        link: "https://doi.org/10.1186/s13054-023-04327-7"
+      - ad: "Ağır travmatik beyin hasarı — Brain Trauma Foundation"
+        yil: 2016
+        not: "4. baskı"
+        link: "https://braintrauma.org/guidelines"

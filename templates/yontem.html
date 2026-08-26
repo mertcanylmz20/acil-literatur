@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block baslik %}Yöntem · {{ site.ad }}{% endblock %}
+{% block icerik %}
+
+<div class="bolum-basi"><h1>Yöntem</h1></div>
+
+<section class="metin">
+  <h2>Kayıtlar nasıl seçiliyor</h2>
+  <ol class="adimlar">
+    <li>Belirlenmiş dergi listesindeki son {{ cfg.tarama.gun_penceresi }} günün
+    yayınları PubMed'den çekilir.</li>
+    <li>Her kayıt, yayın tipi ve MeSH terimlerine göre sabit bir kural
+    tablosuyla puanlanır. Puanlama tamamen deterministiktir: aynı kayıt her
+    zaman aynı puanı alır.</li>
+    <li>{{ cfg.sayi.esik }} puanın altındaki kayıtlar hiçbir zaman yayımlanmaz.
+    En yüksek puanlı {{ cfg.sayi.azami_kayit }} kayıt seçilir; eşiği geçen
+    yeterli kayıt yoksa sayı eksik çıkar veya hiç yayımlanmaz.</li>
+  </ol>
+</section>
+
+<section class="metin">
+  <h2>Kategoriler</h2>
+  <dl class="tanimlar">
+    {% for k in cfg.kategoriler %}
+    <dt><span class="rozet {{ k.kod }}">{{ k.ad }}</span></dt>
+    <dd>{{ k.asgari_puan }} puan ve üzeri</dd>
+    {% endfor %}
+  </dl>
+  <p>Kategori, kaydın klinik öneminin değerlendirmesi değildir. Yalnızca
+  yayın tipi, dergi ve konu eşleşmesinden hesaplanan bir sıralamadır.</p>
+</section>
+
+<section class="metin">
+  <h2>Neyi yapmıyoruz</h2>
+  <p>Makale özeti yazmıyoruz. Sonuçları kendi cümlelerimizle aktarmıyoruz.
+  Sayısal bulgu, etki büyüklüğü veya klinik yorum yayımlamıyoruz. Sayfadaki
+  her alan PubMed kaydından birebir alınır; bir alan çekilemezse boş bırakılır,
+  tahmin edilmez.</p>
+  <p>Preprint yayımlamıyoruz. Editoryal, yorum, mektup ve olgu sunumları
+  otomatik olarak dışlanır. Sosyal medyada konuşulması bir kaydı listeye
+  sokmaz.</p>
+  <p>Bir kılavuz için "şu an geçerli olan budur" demiyoruz. Kılavuz sayfası
+  yalnızca yayın yılını ve kaynağı gösterir.</p>
+</section>
+
+<section class="metin">
+  <h2>Bilinen sınırlar</h2>
+  <ul>
+    <li>Sıralama algoritmiktir. İyi bir çalışma düşük puan alabilir, zayıf bir
+    çalışma yüksek puan alabilir.</li>
+    <li>Listedeki dergiler dışında yayımlanan çalışmalar hiç görünmez.</li>
+    <li>MeSH terimleri PubMed tarafından gecikmeli atanır; yeni kayıtlar
+    konu etiketi almadan listelenebilir.</li>
+    <li>İnsan editör incelemesi yoktur. Hatalı sıralama düzeltilmez.</li>
+  </ul>
+</section>
+
+<section class="metin">
+  <h2>Kim hazırlıyor</h2>
+  <p>Türkiye'de çalışan bir acil tıp araştırma görevlisi tarafından kurulmuştur.
+  Ticari bağlantı, sponsorluk veya reklam yoktur.</p>
+</section>
+
+<section class="metin sorumluluk">
+  <h2>Sorumluluk reddi</h2>
+  <p>Bu site hekimlere yöneliktir ve eğitim amaçlıdır. Klinik karar desteği
+  sağlamaz, hasta bakımına dair öneri içermez. Her makale orijinal kaynağından
+  okunmalı ve klinik kararlar geçerli kılavuzlar ile kurum protokolleri
+  doğrultusunda verilmelidir.</p>
+</section>
+
+{% endblock %}

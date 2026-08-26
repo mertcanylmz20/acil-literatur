@@ -1,0 +1,172 @@
+# Acil Literatür — yapılandırma
+#
+# Sitenin kalitesini belirleyen dosya budur. Kod değil, bu liste.
+# Değişiklikten sonra: python build.py --kuru
+
+site:
+  ad: "Acil Literatür"
+  slogan: "Haftada en fazla 5 kayıt. Fazlası değil."
+  url: "https://acilliteratur.com"
+
+tarama:
+  # Her taramada geriye kaç gün bakılır.
+  # 21 gün seçildi: haftalık taramalar üst üste biner, geç indekslenen
+  # kayıtlar kaçmaz. Havuz zaten tekrarları ayıklıyor.
+  gun_penceresi: 21
+  azami_kayit: 400
+
+havuz:
+  # Bir kayıt havuzda kaç hafta bekleyebilir. Süre dolunca düşer.
+  azami_hafta: 6
+
+sayi:
+  azami_kayit: 5
+  # Bu puanın altındaki hiçbir kayıt yayımlanmaz.
+  # Sayı eksik çıkabilir. Bu bir hata değil, kuralın kendisi.
+  esik: 8
+  konu_basina_azami: 2
+
+kategoriler:
+  - {ad: "Mutlaka oku",       kod: "must",   asgari_puan: 18}
+  - {ad: "Okunması önerilir", kod: "should", asgari_puan: 12}
+  - {ad: "İlgi çekici",       kod: "nice",   asgari_puan: 8}
+
+puanlama:
+  yayin_tipi:
+    "Guideline": 10
+    "Practice Guideline": 10
+    "Consensus Development Conference": 10
+    "Randomized Controlled Trial": 8
+    "Meta-Analysis": 6
+    "Systematic Review": 6
+    "Multicenter Study": 2
+    "Observational Study": 1
+  dergi_a: 6
+  dergi_b: 3
+  mesh_oncelik: 4
+  # Bu yayın tiplerinden biri görülürse kayıt tamamen dışlanır
+  dislanan_tipler:
+    - "Editorial"
+    - "Comment"
+    - "Letter"
+    - "Case Reports"
+    - "News"
+    - "Published Erratum"
+    - "Retraction of Publication"
+    - "Preprint"
+    - "Biography"
+    - "Historical Article"
+
+# A listesi: genel yüksek etkili dergiler ve acil tıbbın çekirdeği
+dergiler_a:
+  - "N Engl J Med"
+  - "Lancet"
+  - "JAMA"
+  - "BMJ"
+  - "Ann Emerg Med"
+  - "Acad Emerg Med"
+  - "Emerg Med J"
+  - "Eur J Emerg Med"
+  - "JAMA Intern Med"
+  - "JAMA Netw Open"
+  - "Lancet Respir Med"
+  - "Lancet Neurol"
+  - "Intensive Care Med"
+  - "Circulation"
+
+# B listesi: alanında güçlü, acil tıp pratiğini etkileyen dergiler
+dergiler_b:
+  - "Resuscitation"
+  - "Crit Care"
+  - "Crit Care Med"
+  - "Chest"
+  - "Am J Respir Crit Care Med"
+  - "J Am Coll Cardiol"
+  - "Eur Heart J"
+  - "Stroke"
+  - "J Trauma Acute Care Surg"
+  - "Ann Intern Med"
+  - "Am J Emerg Med"
+  - "Turk J Emerg Med"
+  - "Scand J Trauma Resusc Emerg Med"
+  - "Clin Toxicol (Phila)"
+  - "Prehosp Emerg Care"
+  - "Emergencias"
+  - "JAMA Cardiol"
+  - "JAMA Neurol"
+  - "JAMA Surg"
+  - "Neurology"
+  - "Injury"
+  - "Trauma Surg Acute Care Open"
+  - "Ann Intensive Care"
+  - "Eur J Trauma Emerg Surg"
+
+# MeSH öncelikli konular.
+# Anahtar kelime değil, gerçek MeSH terimi olmalı.
+# Etiketler arşiv sayfasında konu filtresi olarak da kullanılır.
+mesh_oncelik:
+  Travma:
+    - "Wounds and Injuries"
+    - "Wounds, Penetrating"
+    - "Wounds, Nonpenetrating"
+    - "Shock, Hemorrhagic"
+    - "Brain Injuries, Traumatic"
+    - "Blood Transfusion"
+    - "Tranexamic Acid"
+    - "Hemorrhage"
+  Sepsis:
+    - "Sepsis"
+    - "Shock, Septic"
+    - "Fluid Therapy"
+    - "Vasoconstrictor Agents"
+    - "Anti-Bacterial Agents"
+  Havayolu:
+    - "Intubation, Intratracheal"
+    - "Laryngoscopy"
+    - "Airway Management"
+    - "Neuromuscular Blocking Agents"
+    - "Anesthetics, Intravenous"
+  Resüsitasyon:
+    - "Cardiopulmonary Resuscitation"
+    - "Heart Arrest"
+    - "Out-of-Hospital Cardiac Arrest"
+    - "Hypothermia, Induced"
+    - "Electric Countershock"
+  Solunum:
+    - "Respiratory Insufficiency"
+    - "Respiration, Artificial"
+    - "Noninvasive Ventilation"
+    - "Oxygen Inhalation Therapy"
+    - "Pulmonary Disease, Chronic Obstructive"
+    - "Respiratory Distress Syndrome"
+  Kardiyoloji:
+    - "Acute Coronary Syndrome"
+    - "Myocardial Infarction"
+    - "Pulmonary Embolism"
+    - "Heart Failure"
+    - "Arrhythmias, Cardiac"
+    - "Aortic Dissection"
+    - "Shock, Cardiogenic"
+  Nöroloji:
+    - "Stroke"
+    - "Ischemic Stroke"
+    - "Cerebral Hemorrhage"
+    - "Subarachnoid Hemorrhage"
+    - "Status Epilepticus"
+    - "Thrombolytic Therapy"
+  Toksikoloji:
+    - "Poisoning"
+    - "Drug Overdose"
+    - "Antidotes"
+    - "Carbon Monoxide Poisoning"
+  Metabolik:
+    - "Diabetic Ketoacidosis"
+    - "Hyperkalemia"
+    - "Hyponatremia"
+    - "Acid-Base Imbalance"
+    - "Water-Electrolyte Imbalance"
+  Tanısal:
+    - "Point-of-Care Testing"
+    - "Ultrasonography"
+    - "Clinical Decision Rules"
+    - "Sensitivity and Specificity"

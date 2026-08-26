@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block baslik %}Kılavuzlar · {{ site.ad }}{% endblock %}
+{% block icerik %}
+
+<div class="bolum-basi">
+  <h1>Kılavuzlar</h1>
+  <span class="meta">Son kontrol: {{ kilavuzlar.son_kontrol }}</span>
+</div>
+
+<p class="not">Bu liste elle tutulur ve otomatik taranmaz. Bir kılavuzun burada
+yer alması güncel olduğu anlamına gelmez — yalnızca yayın yılını ve kaynağını
+gösterir. Yıl rozeti kılavuzun yaşını belirtir.</p>
+
+{% for konu in kilavuzlar.konular %}
+<section class="kilavuz-konu">
+  <h2>{{ konu.baslik }}</h2>
+  <ul class="kilavuz-liste">
+  {% for k in konu.kayitlar %}
+    <li>
+      <div>
+        <a href="{{ k.link }}">{{ k.ad }}</a>
+        <p class="meta">{{ k.yil }}{% if k.not %} · {{ k.not }}{% endif %}</p>
+      </div>
+      <span class="yas {{ k.yas_kod }}">{{ k.yas }} yıl</span>
+    </li>
+  {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+
+<div class="gosterge">
+  <span><i class="p yeni"></i>2 yıldan yeni</span>
+  <span><i class="p orta"></i>2–4 yıl</span>
+  <span><i class="p eski"></i>5–9 yıl</span>
+  <span><i class="p cok_eski"></i>10+ yıl</span>
+</div>
+
+{% endblock %}

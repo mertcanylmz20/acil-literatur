@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block icerik %}
+
+{% if sayi %}
+<div class="bolum-basi">
+  <h1>Sayı {{ sayi.no }}</h1>
+  <span class="meta">{{ sayi.tarih_tr }} · {{ sayi.kayitlar|length }} kayıt</span>
+</div>
+
+<ol class="kayitlar">
+{% for k in sayi.kayitlar %}
+  <li class="kayit">
+    {% if k.kategori_kod %}
+    <span class="rozet {{ k.kategori_kod }}">{{ k.kategori_ad }}</span>
+    {% endif %}
+    <h2>{{ k.baslik }}</h2>
+    <p class="meta">
+      <span class="dergi">{{ k.dergi }}</span>
+      {% if k.tip_etiketi %} · {{ k.tip_etiketi }}{% endif %}
+      {% if k.tarih_etiketi %} · {{ k.tarih_etiketi }}{% endif %}
+    </p>
+    {% if k.konular %}
+    <p class="etiketler">{% for c in k.konular %}<span>{{ c }}</span>{% endfor %}</p>
+    {% endif %}
+    <p class="linkler">
+      {% if k.doi %}<a href="https://doi.org/{{ k.doi }}">DOI</a>{% endif %}
+      {% if k.pmid %}<a href="https://pubmed.ncbi.nlm.nih.gov/{{ k.pmid }}/">PubMed</a>{% endif %}
+    </p>
+  </li>
+{% endfor %}
+</ol>
+
+{% else %}
+<div class="bos">
+  <h1>Henüz yayımlanmış sayı yok</h1>
+  <p>İlk sayı, eşiği geçen kayıt bulunduğunda yayımlanacak.</p>
+</div>
+{% endif %}
+
+{% endblock %}

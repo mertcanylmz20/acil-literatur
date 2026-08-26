@@ -1,0 +1,135 @@
+#!/usr/bin/env python3
+"""
+Arsivi elle dogrulanmis ilk iki sayiyla baslatir.
+
+Bu kayitlarin abstract'lari tek tek okunarak dogrulandi. Sonraki tum sayilar
+build.py tarafindan otomatik uretilir.
+
+Bir kez calistirilir:  python tohumla.py
+Sonra:                 python build.py --sadece-uret
+"""
+
+import json
+from pathlib import Path
+
+VERI = Path(__file__).parent / "data"
+
+SAYILAR = [
+    {
+        "no": 1,
+        "tarih": "2026-08-28",
+        "kayitlar": [
+            {
+                "pmid": "", "doi": "10.4103/tjem.tjem_12_26",
+                "baslik": "Emergency department airway management-2026: EMAT clinical policy guideline",
+                "dergi": "Turk J Emerg Med",
+                "tipler": ["Practice Guideline"], "mesh": [],
+                "yil": "2026", "ay": "Aug", "gun": "",
+                "puan": 17, "konular": ["Havayolu"],
+                "eklendi": "2026-08-28", "sayi": 1,
+            },
+            {
+                "pmid": "42554995", "doi": "10.1001/jama.2026.10247",
+                "baslik": "Duration of Therapeutic Hypothermia After Out-of-Hospital Cardiac Arrest: The ICECAP Randomized Clinical Trial",
+                "dergi": "JAMA",
+                "tipler": ["Randomized Controlled Trial", "Multicenter Study"], "mesh": [],
+                "yil": "2026", "ay": "Aug", "gun": "5",
+                "puan": 20, "konular": ["Resüsitasyon"],
+                "eklendi": "2026-08-28", "sayi": 1,
+            },
+            {
+                "pmid": "42545700", "doi": "10.1001/jamanetworkopen.2026.25965",
+                "baslik": "Conventional vs Video-Assisted Laryngoscopy for Perioperative Endotracheal Intubations: A Randomized Clinical Trial",
+                "dergi": "JAMA Netw Open",
+                "tipler": ["Randomized Controlled Trial", "Multicenter Study"], "mesh": [],
+                "yil": "2026", "ay": "Aug", "gun": "3",
+                "puan": 20, "konular": ["Havayolu"],
+                "eklendi": "2026-08-28", "sayi": 1,
+            },
+            {
+                "pmid": "", "doi": "10.1001/jama.2026.13328",
+                "baslik": "Cold and Room-Temperature Platelets in Cardiac Surgery: The CHIPS Randomized Clinical Trial",
+                "dergi": "JAMA",
+                "tipler": ["Randomized Controlled Trial", "Multicenter Study"], "mesh": [],
+                "yil": "2026", "ay": "Aug", "gun": "17",
+                "puan": 20, "konular": ["Travma"],
+                "eklendi": "2026-08-28", "sayi": 1,
+            },
+            {
+                "pmid": "", "doi": "10.1001/jamanetworkopen.2026.26990",
+                "baslik": "Intravenous Thrombolysis Beyond the Conventional Time Window for Acute Ischemic Stroke: A Systematic Review and Meta-Analysis",
+                "dergi": "JAMA Netw Open",
+                "tipler": ["Meta-Analysis", "Systematic Review"], "mesh": [],
+                "yil": "2026", "ay": "Aug", "gun": "7",
+                "puan": 16, "konular": ["Nöroloji"],
+                "eklendi": "2026-08-28", "sayi": 1,
+            },
+        ],
+    },
+    {
+        "no": 2,
+        "tarih": "2026-09-04",
+        "kayitlar": [
+            {
+                "pmid": "", "doi": "10.1097/XCS.0000000000002130",
+                "baslik": "Survival after Resuscitative Thoracotomy in the Emergency Department: An Analysis of 487 Trauma Patients with Prehospital Cardiopulmonary Resuscitation",
+                "dergi": "J Am Coll Surg",
+                "tipler": ["Observational Study"], "mesh": [],
+                "yil": "2026", "ay": "Aug", "gun": "11",
+                "puan": 8, "konular": ["Travma"],
+                "eklendi": "2026-09-04", "sayi": 2,
+            },
+            {
+                "pmid": "42149702", "doi": "10.1093/ajrccm/aamag203",
+                "baslik": "Rocuronium dose and first-attempt intubation success in the critically ill: secondary analysis of two multicenter trials",
+                "dergi": "Am J Respir Crit Care Med",
+                "tipler": ["Observational Study", "Multicenter Study"], "mesh": [],
+                "yil": "2026", "ay": "Aug", "gun": "1",
+                "puan": 10, "konular": ["Havayolu"],
+                "eklendi": "2026-09-04", "sayi": 2,
+            },
+            {
+                "pmid": "42199821", "doi": "10.1016/j.acepjo.2026.100417",
+                "baslik": "Long-Term Outcomes of Trauma Patients After Treatment With Prehospital Tranexamic Acid: A Subgroup Analysis From the PATCH-Trauma Trial",
+                "dergi": "J Am Coll Emerg Physicians Open",
+                "tipler": ["Randomized Controlled Trial"], "mesh": [],
+                "yil": "2026", "ay": "May", "gun": "15",
+                "puan": 12, "konular": ["Travma"],
+                "eklendi": "2026-09-04", "sayi": 2,
+            },
+            {
+                "pmid": "42546017", "doi": "10.1001/jamainternmed.2026.4023",
+                "baslik": "Autonomous Oxygen Titration for Maintaining Normoxemia in Acutely Ill Adults: The SAVE-O2 AI Randomized Clinical Trial",
+                "dergi": "JAMA Intern Med",
+                "tipler": ["Randomized Controlled Trial", "Multicenter Study"], "mesh": [],
+                "yil": "2026", "ay": "Aug", "gun": "3",
+                "puan": 20, "konular": ["Solunum"],
+                "eklendi": "2026-09-04", "sayi": 2,
+            },
+        ],
+    },
+]
+
+
+def main():
+    VERI.mkdir(exist_ok=True)
+    hedef = VERI / "sayilar.json"
+    if hedef.exists():
+        print("data/sayilar.json zaten var. Uzerine yazmadim.")
+        return
+    hedef.write_text(json.dumps(SAYILAR, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    havuz = {}
+    for s in SAYILAR:
+        for k in s["kayitlar"]:
+            anahtar = k["pmid"] or k["doi"]
+            havuz[anahtar] = k
+    (VERI / "havuz.json").write_text(
+        json.dumps(havuz, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    n = sum(len(s["kayitlar"]) for s in SAYILAR)
+    print(f"{len(SAYILAR)} sayi, {n} kayit yazildi.")
+
+
+if __name__ == "__main__":
+    main()

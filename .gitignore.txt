@@ -1,0 +1,5 @@
+site/
+data/havuz.json.bak
+__pycache__/
+*.pyc
+.venv/

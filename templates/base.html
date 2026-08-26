@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block baslik %}{{ site.ad }}{% endblock %}</title>
+<meta name="description" content="{{ site.slogan }}">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="ust">
+  <a class="marka" href="index.html">{{ site.ad }}</a>
+  <p class="slogan">{{ site.slogan }}</p>
+  <nav>
+    <a href="index.html">Bu hafta</a>
+    <a href="arsiv.html">Arşiv</a>
+    <a href="kilavuzlar.html">Kılavuzlar</a>
+    <a href="yontem.html">Yöntem</a>
+  </nav>
+</header>
+
+{% if not durum.basarili %}
+<p class="uyari" role="status">{{ durum.mesaj }}</p>
+{% endif %}
+
+<main>
+{% block icerik %}{% endblock %}
+</main>
+
+<footer>
+  <p class="bant">Bu liste otomatik oluşturulur. İnsan editör incelemesi yapılmaz.
+  Sıralama dergi ve çalışma tipine dayalı algoritmiktir, klinik önem
+  değerlendirmesi değildir. Her kayıt orijinal kaynağına bağlıdır; karar
+  vermeden önce makaleyi okuyun.</p>
+  <p class="kucuk">Son güncelleme: {{ uretim_tarihi }} ·
+  <a href="yontem.html">Yöntem</a></p>
+</footer>
+
+</body>
+</html>

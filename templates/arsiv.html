@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% block baslik %}Arşiv · {{ site.ad }}{% endblock %}
+{% block icerik %}
+
+<div class="bolum-basi">
+  <h1>Arşiv</h1>
+  <span class="meta">{{ sayilar|length }} sayı · {{ toplam }} kayıt</span>
+</div>
+
+<div class="arac-cubugu">
+  <label class="gizli" for="ara">Kayıtlarda ara</label>
+  <input type="search" id="ara" placeholder="Başlık veya dergi ara">
+  <div class="etiket-secim" id="etiketler">
+    <button class="etiket etkin" data-konu="">Tümü</button>
+    {% for ad, adet in konular %}
+    <button class="etiket" data-konu="{{ ad }}">{{ ad }} <b>{{ adet }}</b></button>
+    {% endfor %}
+  </div>
+</div>
+
+{% for s in sayilar %}
+<section class="sayi-blok" data-sayi>
+  <h2 class="sayi-basligi">Sayı {{ s.no }} <span class="meta">{{ s.tarih_tr }}</span></h2>
+  <ol class="kayitlar sade">
+  {% for k in s.kayitlar %}
+    <li class="kayit"
+        data-konular="{{ k.konular|join(',') }}"
+        data-ara="{{ (k.baslik ~ ' ' ~ k.dergi)|lower }}">
+      {% if k.kategori_kod %}<span class="nokta {{ k.kategori_kod }}" title="{{ k.kategori_ad }}"></span>{% endif %}
+      <div>
+        <h3>{{ k.baslik }}</h3>
+        <p class="meta"><span class="dergi">{{ k.dergi }}</span>
+        {% if k.tip_etiketi %} · {{ k.tip_etiketi }}{% endif %}</p>
+        <p class="linkler">
+          {% if k.doi %}<a href="https://doi.org/{{ k.doi }}">DOI</a>{% endif %}
+          {% if k.pmid %}<a href="https://pubmed.ncbi.nlm.nih.gov/{{ k.pmid }}/">PubMed</a>{% endif %}
+        </p>
+      </div>
+    </li>
+  {% endfor %}
+  </ol>
+</section>
+{% endfor %}
+
+<p class="bos gizli" id="sonucyok">Bu filtreye uyan kayıt yok.</p>
+
+<script>
+(function () {
+  var kutu = document.getElementById('ara');
+  var etiketler = document.getElementById('etiketler');
+  var kayitlar = Array.prototype.slice.call(document.querySelectorAll('.kayit'));
+  var bloklar = Array.prototype.slice.call(document.querySelectorAll('[data-sayi]'));
+  var sonucyok = document.getElementById('sonucyok');
+  var secili = '';
+
+  function uygula() {
+    var q = kutu.value.trim().toLowerCase();
+    var gorunen = 0;
+    kayitlar.forEach(function (el) {
+      var konular = (el.dataset.konular || '').split(',');
+      var konuTamam = !secili || konular.indexOf(secili) !== -1;
+      var araTamam = !q || el.dataset.ara.indexOf(q) !== -1;
+      var goster = konuTamam && araTamam;
+      el.hidden = !goster;
+      if (goster) gorunen++;
+    });
+    bloklar.forEach(function (b) {
+      b.hidden = !b.querySelector('.kayit:not([hidden])');
+    });
+    sonucyok.classList.toggle('gizli', gorunen > 0);
+  }
+
+  kutu.addEventListener('input', uygula);
+  etiketler.addEventListener('click', function (e) {
+    var btn = e.target.closest('.etiket');
+    if (!btn) return;
+    secili = btn.dataset.konu;
+    etiketler.querySelectorAll('.etiket').forEach(function (b) {
+      b.classList.toggle('etkin', b === btn);
+    });
+    uygula();
+  });
+})();
+</script>
+
+{% endblock %}

@@ -1,0 +1,49 @@
+name: Haftalık tarama ve yayın
+
+on:
+  schedule:
+    # Her cuma 17:00 UTC = Türkiye saatiyle 20:00
+    # UYARI: GitHub cron'u yoğunlukta 10-60 dk gecikebilir. Normaldir.
+    - cron: "0 17 * * 5"
+  workflow_dispatch:        # Actions sekmesinden elle de çalıştırılabilir
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: yayin
+  cancel-in-progress: false
+
+jobs:
+  yayinla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bağımlılıkları kur
+        run: pip install -r requirements.txt
+
+      - name: Tara ve üret
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python build.py
+
+      - name: Havuzu kaydet
+        run: |
+          git config user.name "acil-literatur-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/havuz.json data/sayilar.json
+          git diff --staged --quiet || git commit -m "Haftalık güncelleme: $(date -u +%Y-%m-%d)"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4
