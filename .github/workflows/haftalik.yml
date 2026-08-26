@@ -5,6 +5,16 @@ on:
     # Her cuma 17:00 UTC = Türkiye saatiyle 20:00
     # UYARI: GitHub cron'u yoğunlukta 10-60 dk gecikebilir. Normaldir.
     - cron: "0 17 * * 5"
+  push:
+    branches: [main]
+    # Veri veya şablon değiştiğinde siteyi yeniden üret.
+    # Tarama yapılmaz, sadece mevcut havuzdan sayfalar üretilir.
+    paths:
+      - "data/**"
+      - "templates/**"
+      - "static/**"
+      - "config.yaml"
+      - "build.py"
   workflow_dispatch:        # Actions sekmesinden elle de çalıştırılabilir
 
 permissions:
@@ -29,12 +39,20 @@ jobs:
       - name: Bağımlılıkları kur
         run: pip install -r requirements.txt
 
+      # Push ile tetiklendiyse tarama yapma, sadece siteyi yeniden üret.
+      # Aksi halde her küçük düzenleme yeni bir sayı yayımlardı.
       - name: Tara ve üret
         env:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
-        run: python build.py
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            python build.py --sadece-uret
+          else
+            python build.py
+          fi
 
       - name: Havuzu kaydet
+        if: github.event_name != 'push'
         run: |
           git config user.name "acil-literatur-bot"
           git config user.email "bot@users.noreply.github.com"
