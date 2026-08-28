@@ -209,7 +209,7 @@
     "puan": 14,
     "konular": [],
     "eklendi": "2026-08-27",
-    "sayi": null
+    "sayi": 4
   },
   "42646838": {
     "pmid": "42646838",
@@ -396,7 +396,7 @@
     "puan": 14,
     "konular": [],
     "eklendi": "2026-08-27",
-    "sayi": null
+    "sayi": 4
   },
   "42638131": {
     "pmid": "42638131",
@@ -888,7 +888,7 @@
     "puan": 14,
     "konular": [],
     "eklendi": "2026-08-27",
-    "sayi": null
+    "sayi": 4
   },
   "42623074": {
     "pmid": "42623074",
@@ -924,7 +924,7 @@
     "puan": 14,
     "konular": [],
     "eklendi": "2026-08-27",
-    "sayi": null
+    "sayi": 4
   },
   "42622881": {
     "pmid": "42622881",
@@ -1001,6 +1001,111 @@
       "Solunum"
     ],
     "eklendi": "2026-08-27",
+    "sayi": 4
+  },
+  "42661221": {
+    "pmid": "42661221",
+    "baslik": "Left ventricular unloading during VA-ECMO for refractory cardiogenic shock: a target trial emulation multicenter analysis.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06213-4",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Shock, Cardiogenic",
+      "Extracorporeal Membrane Oxygenation",
+      "Retrospective Studies",
+      "Male",
+      "Middle Aged",
+      "Female",
+      "Adult",
+      "Propensity Score",
+      "Intra-Aortic Balloon Pumping",
+      "Aged"
+    ],
+    "yil": "2026",
+    "ay": "Aug",
+    "gun": "27",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-08-28",
+    "sayi": null
+  },
+  "42658497": {
+    "pmid": "42658497",
+    "baslik": "Cognitive Behavior vs Bright Light Therapy for Insomnia in Women Undergoing Chemotherapy for Breast Cancer: A Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.30320",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Sleep Initiation and Maintenance Disorders",
+      "Breast Neoplasms",
+      "Cognitive Behavioral Therapy",
+      "Middle Aged",
+      "Phototherapy",
+      "Adult",
+      "Fatigue",
+      "Australia",
+      "Treatment Outcome",
+      "Quality of Life",
+      "Aged"
+    ],
+    "yil": "2026",
+    "ay": "Aug",
+    "gun": "03",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-08-28",
+    "sayi": null
+  },
+  "42658496": {
+    "pmid": "42658496",
+    "baslik": "A Multilevel Intervention to Identify Individuals for Genetic Testing and Treatment: The IGNITE-TX Pilot Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.30668",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Pilot Projects",
+      "Female",
+      "Genetic Testing",
+      "Adult",
+      "Middle Aged",
+      "Hereditary Breast and Ovarian Cancer Syndrome",
+      "Colorectal Neoplasms, Hereditary Nonpolyposis",
+      "Feasibility Studies"
+    ],
+    "yil": "2026",
+    "ay": "Aug",
+    "gun": "03",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-08-28",
     "sayi": null
   }
 }

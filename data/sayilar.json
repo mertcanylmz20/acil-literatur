@@ -389,5 +389,187 @@
         "sayi": 3
       }
     ]
+  },
+  {
+    "no": 4,
+    "tarih": "2026-08-28",
+    "kayitlar": [
+      {
+        "pmid": "42618951",
+        "baslik": "Physiological comparison of high-flow oxygen via endotracheal tube and T-piece strategies during spontaneous breathing trials: a randomized crossover study.",
+        "dergi": "Crit Care",
+        "doi": "10.1186/s13054-026-06266-5",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Cross-Over Studies",
+          "Humans",
+          "Intubation, Intratracheal",
+          "Female",
+          "Male",
+          "Aged",
+          "Middle Aged",
+          "Ventilator Weaning",
+          "Oxygen Inhalation Therapy",
+          "Oxygen",
+          "Respiration, Artificial"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "18",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "B dergisi +3",
+          "öncelikli konu +4"
+        ],
+        "puan": 15,
+        "konular": [
+          "Havayolu",
+          "Solunum"
+        ],
+        "eklendi": "2026-08-27",
+        "sayi": 4
+      },
+      {
+        "pmid": "42646841",
+        "baslik": "Bilevel Positive Airway Pressure and Continuous Albuterol for Pediatric Asthma Exacerbations: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.30627",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Albuterol",
+          "Child",
+          "Male",
+          "Asthma",
+          "Adolescent",
+          "Double-Blind Method",
+          "Female",
+          "Child, Preschool",
+          "Bronchodilator Agents",
+          "Emergency Service, Hospital",
+          "Positive-Pressure Respiration"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-08-27",
+        "sayi": 4
+      },
+      {
+        "pmid": "42640640",
+        "baslik": "Facilitated Transitions to Postpartum Primary Care and Mental Health Care Services: Secondary Analysis of a Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.30415",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Primary Health Care",
+          "Adult",
+          "Mental Health Services",
+          "Pregnancy",
+          "Depression, Postpartum",
+          "Massachusetts",
+          "Postnatal Care"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-08-27",
+        "sayi": 4
+      },
+      {
+        "pmid": "42623075",
+        "baslik": "Weight Loss Intervention Promoting an Adapted Mediterranean-Style Dietary Pattern: The DELISH Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.29006",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Diet, Mediterranean",
+          "Female",
+          "Middle Aged",
+          "Male",
+          "Adult",
+          "Weight Loss",
+          "Obesity",
+          "North Carolina",
+          "Aged",
+          "Weight Reduction Programs",
+          "Adolescent"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-08-27",
+        "sayi": 4
+      },
+      {
+        "pmid": "42623074",
+        "baslik": "Threshold and Predictive Alerts of Continuous Glucose Monitoring and Glycemic Control in Hospitalized Adults With Diabetes: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.29291",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Continuous Glucose Monitoring",
+          "Middle Aged",
+          "Male",
+          "Glycemic Control",
+          "Female",
+          "Hospitalization",
+          "Aged",
+          "Diabetes Mellitus, Type 2",
+          "Blood Glucose",
+          "Diabetes Mellitus, Type 1",
+          "Glycated Hemoglobin",
+          "Blood Glucose Self-Monitoring"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-08-27",
+        "sayi": 4
+      }
+    ]
   }
 ]
