@@ -571,5 +571,178 @@
         "sayi": 4
       }
     ]
+  },
+  {
+    "no": 5,
+    "tarih": "2026-09-04",
+    "kayitlar": [
+      {
+        "pmid": "42685897",
+        "baslik": "Tobacco Treatment in the Inpatient Setting: An American College of Chest Physicians Clinical Practice Guideline.",
+        "dergi": "Chest",
+        "doi": "10.1016/j.chest.2026.08.038",
+        "tipler": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh": [],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "02",
+        "gerekce": [
+          "Practice Guideline +10",
+          "B dergisi +3"
+        ],
+        "puan": 13,
+        "konular": [],
+        "eklendi": "2026-09-04",
+        "sayi": 5
+      },
+      {
+        "pmid": "42673560",
+        "baslik": "Pharmacologic Treatment for Migraine Prevention in Adults Practice Guideline Recommendations: Report of the AAN Guidelines Subcommittee and the American Headache Society.",
+        "dergi": "Neurology",
+        "doi": "10.1212/WNL.0000000000214881",
+        "tipler": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh": [
+          "Humans",
+          "Migraine Disorders",
+          "United States",
+          "Adult",
+          "Female",
+          "Societies, Medical"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "13",
+        "gerekce": [
+          "Practice Guideline +10",
+          "B dergisi +3"
+        ],
+        "puan": 13,
+        "konular": [],
+        "eklendi": "2026-09-04",
+        "sayi": 5
+      },
+      {
+        "pmid": "42692034",
+        "baslik": "Liposuction versus conservative therapy for patients with lipoedema in Germany: a multicentre, randomised controlled clinical trial.",
+        "dergi": "Lancet",
+        "doi": "10.1016/S0140-6736(26)00910-4",
+        "tipler": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Comparative Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Lipectomy",
+          "Middle Aged",
+          "Germany",
+          "Conservative Treatment",
+          "Edema",
+          "Treatment Outcome",
+          "Adult",
+          "Pain Measurement",
+          "Lipedema"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "05",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-09-04",
+        "sayi": 5
+      },
+      {
+        "pmid": "42685316",
+        "baslik": "Azacitidine-Venetoclax or Induction Chemotherapy for Acute Myeloid Leukemia.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2602804",
+        "tipler": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II"
+        ],
+        "mesh": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Azacitidine",
+          "Bridged Bicyclo Compounds, Heterocyclic",
+          "Induction Chemotherapy",
+          "Leukemia, Myeloid, Acute",
+          "Nucleophosmin",
+          "Sulfonamides",
+          "Mutation",
+          "Progression-Free Survival",
+          "Follow-Up Studies",
+          "Male",
+          "Young Adult"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-09-04",
+        "sayi": 5
+      },
+      {
+        "pmid": "42693471",
+        "baslik": "Extracorporeal CO2 elimination for acute exacerbation of severe COPD requiring invasive mechanical ventilation: a randomized controlled trial (the X-COPD trial).",
+        "dergi": "Crit Care",
+        "doi": "10.1186/s13054-026-06300-6",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Pulmonary Disease, Chronic Obstructive",
+          "Female",
+          "Respiration, Artificial",
+          "Male",
+          "Carbon Dioxide",
+          "Aged",
+          "Middle Aged",
+          "Severity of Illness Index",
+          "Treatment Outcome"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "B dergisi +3",
+          "öncelikli konu +4"
+        ],
+        "puan": 15,
+        "konular": [
+          "Solunum"
+        ],
+        "eklendi": "2026-09-04",
+        "sayi": 5
+      }
+    ]
   }
 ]
