@@ -1671,5 +1671,423 @@
     "konular": [],
     "eklendi": "2026-09-04",
     "sayi": null
+  },
+  "42721980": {
+    "pmid": "42721980",
+    "baslik": "Efficacy and safety of mitapivat in adults with transfusion-dependent α-thalassaemia or β-thalassaemia (ENERGIZE-T): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial.",
+    "dergi": "Lancet",
+    "doi": "10.1016/S0140-6736(26)00874-3",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Clinical Trial, Phase III"
+    ],
+    "mesh": [
+      "Humans",
+      "Double-Blind Method",
+      "beta-Thalassemia",
+      "Male",
+      "Female",
+      "Adult",
+      "alpha-Thalassemia",
+      "Treatment Outcome",
+      "Middle Aged",
+      "Young Adult",
+      "Benzaldehydes",
+      "Pyrazines",
+      "Pyrazoles"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "12",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-09-11",
+    "sayi": 6
+  },
+  "42720951": {
+    "pmid": "42720951",
+    "baslik": "Cefepime and Mortality: A Systematic Review and Bayesian Meta-Analysis.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.33017",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Cefepime",
+      "Humans",
+      "Bayes Theorem",
+      "Anti-Bacterial Agents",
+      "Randomized Controlled Trials as Topic",
+      "Third Generation Cephalosporins",
+      "Febrile Neutropenia"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 16,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-09-11",
+    "sayi": null
+  },
+  "42716044": {
+    "pmid": "42716044",
+    "baslik": "Safety, tolerability, and efficacy of RIPK1 inhibitor, SAR443820, in amyotrophic lateral sclerosis (HIMALAYA): a multicentre, randomised, double-blind, placebo-controlled, phase 2 trial.",
+    "dergi": "Lancet Neurol",
+    "doi": "10.1016/S1474-4422(26)00277-2",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase II"
+    ],
+    "mesh": [
+      "Humans",
+      "Amyotrophic Lateral Sclerosis",
+      "Double-Blind Method",
+      "Middle Aged",
+      "Male",
+      "Female",
+      "Aged",
+      "Adult",
+      "Aged, 80 and over",
+      "Young Adult",
+      "Treatment Outcome",
+      "Adolescent"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-09-11",
+    "sayi": 6
+  },
+  "42715916": {
+    "pmid": "42715916",
+    "baslik": "The management of arterial injuries associated with musculoskeletal trauma.",
+    "dergi": "Injury",
+    "doi": "10.1016/j.injury.2026.113648",
+    "tipler": [
+      "Journal Article",
+      "Practice Guideline"
+    ],
+    "mesh": [],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "02",
+    "gerekce": [
+      "Practice Guideline +10",
+      "B dergisi +3"
+    ],
+    "puan": 13,
+    "konular": [],
+    "eklendi": "2026-09-11",
+    "sayi": 6
+  },
+  "42714910": {
+    "pmid": "42714910",
+    "baslik": "Perioperative Depression and Anxiety Care in Older Patients: A Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.32619",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Aged",
+      "Male",
+      "Depression",
+      "Single-Blind Method",
+      "Anxiety",
+      "Perioperative Care",
+      "Middle Aged",
+      "Aged, 80 and over",
+      "Postoperative Complications"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-09-11",
+    "sayi": null
+  },
+  "42714909": {
+    "pmid": "42714909",
+    "baslik": "Smoke-Free Home Intervention in Permanent Supportive Housing: A Cluster Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.32697",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Male",
+      "Female",
+      "Adult",
+      "Middle Aged",
+      "Smoking Cessation",
+      "Tobacco Smoke Pollution",
+      "San Francisco",
+      "Public Housing",
+      "Ill-Housed Persons"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-09-11",
+    "sayi": null
+  },
+  "42714908": {
+    "pmid": "42714908",
+    "baslik": "Desmodium styracifolium Total Flavone Capsules for Urolithiasis: A Phase 3 Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.32874",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Middle Aged",
+      "Double-Blind Method",
+      "Adult",
+      "Female",
+      "Male",
+      "Drugs, Chinese Herbal",
+      "Urolithiasis",
+      "Capsules",
+      "China",
+      "Flavones",
+      "Aged",
+      "Treatment Outcome",
+      "Adolescent",
+      "Young Adult"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-09-11",
+    "sayi": 6
+  },
+  "42714046": {
+    "pmid": "42714046",
+    "baslik": "Genetic Determinants of Early Heart Failure in Hypoplastic Left Heart Syndrome: A Prospective NC-DEFINE Study.",
+    "dergi": "J Am Coll Cardiol",
+    "doi": "10.1016/j.jacc.2026.06.031",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Hypoplastic Left Heart Syndrome",
+      "Heart Failure",
+      "Prospective Studies",
+      "Male",
+      "Female",
+      "Infant, Newborn",
+      "Genetic Predisposition to Disease"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "08",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-09-11",
+    "sayi": null
+  },
+  "42709438": {
+    "pmid": "42709438",
+    "baslik": "Restrictive vs Liberal Transfusion Strategy in Traumatic Brain Injury: A Secondary Analysis of the TRAIN Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.32555",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Brain Injuries, Traumatic",
+      "Male",
+      "Female",
+      "Middle Aged",
+      "Erythrocyte Transfusion",
+      "Adult",
+      "Anemia",
+      "Hemoglobins",
+      "Blood Transfusion",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 20,
+    "konular": [
+      "Travma"
+    ],
+    "eklendi": "2026-09-11",
+    "sayi": 6
+  },
+  "42709437": {
+    "pmid": "42709437",
+    "baslik": "Sex, Timing, and Outcomes of Curative-Intent Immunotherapy: A Systematic Review and Meta-Analysis.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.32635",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Neoplasms",
+      "Male",
+      "Immunotherapy",
+      "Immune Checkpoint Inhibitors",
+      "Sex Factors",
+      "Treatment Outcome",
+      "Time Factors"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6"
+    ],
+    "puan": 12,
+    "konular": [],
+    "eklendi": "2026-09-11",
+    "sayi": null
+  },
+  "42709435": {
+    "pmid": "42709435",
+    "baslik": "Heterogeneity of Critical Organ Dysfunction During Late-Onset Bacteremia in Preterm Infants.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.32792",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Infant, Newborn",
+      "Bacteremia",
+      "Male",
+      "Female",
+      "Infant, Premature",
+      "Multiple Organ Failure",
+      "Cohort Studies",
+      "Organ Dysfunction Scores",
+      "Intensive Care Units, Neonatal",
+      "Gestational Age",
+      "Severity of Illness Index",
+      "Neonatal Sepsis"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-09-11",
+    "sayi": null
+  },
+  "42706575": {
+    "pmid": "42706575",
+    "baslik": "Physiological limits of capillary refill time: a human endotoxemia study.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06247-8",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Endotoxemia",
+      "Cross-Over Studies",
+      "Double-Blind Method",
+      "Female",
+      "Adult",
+      "Capillaries",
+      "Male",
+      "Lipopolysaccharides",
+      "Fingers",
+      "Time Factors",
+      "Microcirculation"
+    ],
+    "yil": "2026",
+    "ay": "Aug",
+    "gun": "31",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "B dergisi +3"
+    ],
+    "puan": 11,
+    "konular": [],
+    "eklendi": "2026-09-11",
+    "sayi": null
   }
 }

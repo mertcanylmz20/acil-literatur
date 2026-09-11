@@ -744,5 +744,190 @@
         "sayi": 5
       }
     ]
+  },
+  {
+    "no": 6,
+    "tarih": "2026-09-11",
+    "kayitlar": [
+      {
+        "pmid": "42715916",
+        "baslik": "The management of arterial injuries associated with musculoskeletal trauma.",
+        "dergi": "Injury",
+        "doi": "10.1016/j.injury.2026.113648",
+        "tipler": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh": [],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "02",
+        "gerekce": [
+          "Practice Guideline +10",
+          "B dergisi +3"
+        ],
+        "puan": 13,
+        "konular": [],
+        "eklendi": "2026-09-11",
+        "sayi": 6
+      },
+      {
+        "pmid": "42709438",
+        "baslik": "Restrictive vs Liberal Transfusion Strategy in Traumatic Brain Injury: A Secondary Analysis of the TRAIN Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.32555",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Brain Injuries, Traumatic",
+          "Male",
+          "Female",
+          "Middle Aged",
+          "Erythrocyte Transfusion",
+          "Adult",
+          "Anemia",
+          "Hemoglobins",
+          "Blood Transfusion",
+          "Treatment Outcome"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 20,
+        "konular": [
+          "Travma"
+        ],
+        "eklendi": "2026-09-11",
+        "sayi": 6
+      },
+      {
+        "pmid": "42721980",
+        "baslik": "Efficacy and safety of mitapivat in adults with transfusion-dependent α-thalassaemia or β-thalassaemia (ENERGIZE-T): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial.",
+        "dergi": "Lancet",
+        "doi": "10.1016/S0140-6736(26)00874-3",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Clinical Trial, Phase III"
+        ],
+        "mesh": [
+          "Humans",
+          "Double-Blind Method",
+          "beta-Thalassemia",
+          "Male",
+          "Female",
+          "Adult",
+          "alpha-Thalassemia",
+          "Treatment Outcome",
+          "Middle Aged",
+          "Young Adult",
+          "Benzaldehydes",
+          "Pyrazines",
+          "Pyrazoles"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "12",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-09-11",
+        "sayi": 6
+      },
+      {
+        "pmid": "42716044",
+        "baslik": "Safety, tolerability, and efficacy of RIPK1 inhibitor, SAR443820, in amyotrophic lateral sclerosis (HIMALAYA): a multicentre, randomised, double-blind, placebo-controlled, phase 2 trial.",
+        "dergi": "Lancet Neurol",
+        "doi": "10.1016/S1474-4422(26)00277-2",
+        "tipler": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II"
+        ],
+        "mesh": [
+          "Humans",
+          "Amyotrophic Lateral Sclerosis",
+          "Double-Blind Method",
+          "Middle Aged",
+          "Male",
+          "Female",
+          "Aged",
+          "Adult",
+          "Aged, 80 and over",
+          "Young Adult",
+          "Treatment Outcome",
+          "Adolescent"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-09-11",
+        "sayi": 6
+      },
+      {
+        "pmid": "42714908",
+        "baslik": "Desmodium styracifolium Total Flavone Capsules for Urolithiasis: A Phase 3 Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.32874",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Middle Aged",
+          "Double-Blind Method",
+          "Adult",
+          "Female",
+          "Male",
+          "Drugs, Chinese Herbal",
+          "Urolithiasis",
+          "Capsules",
+          "China",
+          "Flavones",
+          "Aged",
+          "Treatment Outcome",
+          "Adolescent",
+          "Young Adult"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-09-11",
+        "sayi": 6
+      }
+    ]
   }
 ]
