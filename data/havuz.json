@@ -2089,5 +2089,678 @@
     "konular": [],
     "eklendi": "2026-09-11",
     "sayi": null
+  },
+  "42752909": {
+    "pmid": "42752909",
+    "baslik": "Reappraisal of Cisplatin vs Carboplatin Treatment for Solid Tumors: An Umbrella Meta-Analysis.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.34287",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Carboplatin",
+      "Cisplatin",
+      "Neoplasms",
+      "Antineoplastic Agents",
+      "Female",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6"
+    ],
+    "puan": 12,
+    "konular": [],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42752908": {
+    "pmid": "42752908",
+    "baslik": "Residency Competency Assessments and Early-Career Primary Care Physicians' Antibiotic Prescribing.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.34365",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Anti-Bacterial Agents",
+      "Humans",
+      "Clinical Competence",
+      "Internship and Residency",
+      "Female",
+      "Practice Patterns, Physicians'",
+      "Physicians, Primary Care",
+      "United States",
+      "Male",
+      "Cohort Studies",
+      "Adult",
+      "Drug Prescriptions"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42752907": {
+    "pmid": "42752907",
+    "baslik": "Diagnosis Through Whole Genome Sequencing and Care Utilization in Children With Severe Illness.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.34372",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Child, Preschool",
+      "Male",
+      "Retrospective Studies",
+      "Patient Acceptance of Health Care",
+      "Whole Genome Sequencing",
+      "Child",
+      "Infant",
+      "Female",
+      "Adolescent",
+      "Infant, Newborn",
+      "Critical Illness",
+      "Hospitalization"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42750044": {
+    "pmid": "42750044",
+    "baslik": "Nurse-led respiratory care bundle and pneumonia prevention in critically ill patients with abdominal sepsis: a multicenter before-and-after controlled study.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06304-2",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Male",
+      "Sepsis",
+      "Aged",
+      "Patient Care Bundles",
+      "Middle Aged",
+      "Pneumonia",
+      "Critical Illness",
+      "Logistic Models",
+      "Respiratory Therapy",
+      "Propensity Score"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "14",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42748429": {
+    "pmid": "42748429",
+    "baslik": "Trial of a Maternal Diet Rich in Eggs and Peanuts to Reduce Infant Allergy.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMoa2605659",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Adult",
+      "Female",
+      "Humans",
+      "Infant",
+      "Infant, Newborn",
+      "Male",
+      "Pregnancy",
+      "Arachis",
+      "Diet",
+      "Egg Hypersensitivity",
+      "Eggs",
+      "Immunoglobulin E",
+      "Peanut Hypersensitivity",
+      "Maternal Nutritional Physiological Phenomena",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "17",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-09-18",
+    "sayi": 7
+  },
+  "42748428": {
+    "pmid": "42748428",
+    "baslik": "Blinatumomab for Replacing Chemotherapy in Pediatric Acute Lymphoblastic Leukemia.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMoa2604166",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Clinical Trial, Phase III"
+    ],
+    "mesh": [
+      "Adolescent",
+      "Child",
+      "Child, Preschool",
+      "Female",
+      "Humans",
+      "Infant",
+      "Male",
+      "Antibodies, Bispecific",
+      "Antigens, CD19",
+      "Antineoplastic Agents",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Disease-Free Survival",
+      "Intention to Treat Analysis",
+      "Kaplan-Meier Estimate",
+      "Precursor B-Cell Lymphoblastic Leukemia-Lymphoma",
+      "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "Consolidation Chemotherapy",
+      "Follow-Up Studies",
+      "Infections",
+      "Cytokine Release Syndrome"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "17",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-09-18",
+    "sayi": 7
+  },
+  "42748427": {
+    "pmid": "42748427",
+    "baslik": "Colonoscopy Intervals and Colorectal Cancer Incidence after Adenoma Removal.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMoa2603816",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Equivalence Trial"
+    ],
+    "mesh": [
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Adenoma",
+      "Colonic Polyps",
+      "Colonoscopy",
+      "Colorectal Neoplasms",
+      "Early Detection of Cancer",
+      "Follow-Up Studies",
+      "Incidence",
+      "Time Factors",
+      "Neoplasm Staging",
+      "Europe"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "17",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-09-18",
+    "sayi": 7
+  },
+  "42748394": {
+    "pmid": "42748394",
+    "baslik": "Factor XIa Inhibitors for Secondary Prevention After Noncardioembolic Stroke: A Systematic Review and Meta-Analysis.",
+    "dergi": "Neurology",
+    "doi": "10.1212/WNL.0000000000218521",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Secondary Prevention",
+      "Stroke",
+      "Factor XIa",
+      "Ischemic Attack, Transient",
+      "Ischemic Stroke"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "13",
+    "gerekce": [
+      "Systematic Review +6",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 13,
+    "konular": [
+      "Nöroloji"
+    ],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42747853": {
+    "pmid": "42747853",
+    "baslik": "Age at Diagnosis and Clinical and Genetic Profiles Among Adults With Attention-Deficit/Hyperactivity Disorder.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.34125",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Attention Deficit Disorder with Hyperactivity",
+      "Female",
+      "Adult",
+      "Male",
+      "Cross-Sectional Studies",
+      "Adolescent",
+      "United States",
+      "Young Adult",
+      "Age of Onset",
+      "Child",
+      "Age Factors",
+      "Middle Aged"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42747852": {
+    "pmid": "42747852",
+    "baslik": "Respiratory Syncytial Virus-Associated Disease in Children Receiving Intensive Care.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.34138",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Respiratory Syncytial Virus Infections",
+      "Child, Preschool",
+      "Retrospective Studies",
+      "Male",
+      "Adolescent",
+      "Hospital Mortality",
+      "Child",
+      "Female",
+      "Risk Factors",
+      "Length of Stay",
+      "Critical Care",
+      "Intensive Care Units, Pediatric",
+      "Intensive Care Units"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42744113": {
+    "pmid": "42744113",
+    "baslik": "Social Media and Crisis Care Principles During Pandemics and Disasters: A Consensus Report From a Subgroup of the Task Force for Mass Critical Care.",
+    "dergi": "Chest",
+    "doi": "10.1016/j.chest.2026.08.049",
+    "tipler": [
+      "Journal Article",
+      "Practice Guideline"
+    ],
+    "mesh": [],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "15",
+    "gerekce": [
+      "Practice Guideline +10",
+      "B dergisi +3"
+    ],
+    "puan": 13,
+    "konular": [],
+    "eklendi": "2026-09-18",
+    "sayi": 7
+  },
+  "42742944": {
+    "pmid": "42742944",
+    "baslik": "Neonatal Unit Colonization Pressure and Acquisition of Extended-Spectrum β-Lactamase Gut Colonization.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.32644",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Male",
+      "beta-Lactamases",
+      "Intensive Care Units, Neonatal",
+      "Cross-Sectional Studies",
+      "Infant, Newborn",
+      "Female",
+      "Cross Infection",
+      "Europe",
+      "Feces",
+      "Gastrointestinal Microbiome"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42742941": {
+    "pmid": "42742941",
+    "baslik": "Strategies to Increase Equitable Access to Penicillin Allergy Delabeling Interactions: A Qualitative Study.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.33825",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Penicillins",
+      "Drug Hypersensitivity",
+      "Female",
+      "Qualitative Research",
+      "Male",
+      "Middle Aged",
+      "Focus Groups",
+      "Adult",
+      "Anti-Bacterial Agents",
+      "Aged",
+      "Boston"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42742938": {
+    "pmid": "42742938",
+    "baslik": "Standard Intraoperative Fluid Practices During the 2024 Intravenous Fluid Shortage.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.34064",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Retrospective Studies",
+      "Crystalloid Solutions",
+      "Fluid Therapy",
+      "Intraoperative Care",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Adult"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42740594": {
+    "pmid": "42740594",
+    "baslik": "Manual Detorsion by Pediatric Emergency Physicians Shortens Ischemia Time in Pediatric Testicular Torsion.",
+    "dergi": "Acad Emerg Med",
+    "doi": "10.1111/acem.70412",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Male",
+      "Spermatic Cord Torsion",
+      "Retrospective Studies",
+      "Child",
+      "Adolescent",
+      "Time Factors",
+      "Young Adult",
+      "Ischemia",
+      "Testis",
+      "Ultrasonography",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Tanısal"
+    ],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42735223": {
+    "pmid": "42735223",
+    "baslik": "Clinical Management of Myocardial Infarction.",
+    "dergi": "Circulation",
+    "doi": "10.1161/CIRCULATIONAHA.126.079317",
+    "tipler": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Myocardial Infarction",
+      "Percutaneous Coronary Intervention",
+      "Secondary Prevention",
+      "Risk Factors"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "15",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42734919": {
+    "pmid": "42734919",
+    "baslik": "Neonatal Ventilation Training Using a Low-Cost, High-Fidelity Simulator in a Low-Resource Setting: A Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.33261",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Tanzania",
+      "Female",
+      "Resource-Limited Settings",
+      "Respiration, Artificial",
+      "Infant, Newborn",
+      "Male",
+      "Clinical Competence",
+      "Simulation Training",
+      "High Fidelity Simulation Training",
+      "Adult"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 18,
+    "konular": [
+      "Solunum"
+    ],
+    "eklendi": "2026-09-18",
+    "sayi": 7
+  },
+  "42734916": {
+    "pmid": "42734916",
+    "baslik": "Research Study Attrition and Participant-Informed Retention Strategies Among Cancer Survivors.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.33498",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Cancer Survivors",
+      "Middle Aged",
+      "Longitudinal Studies",
+      "Cross-Sectional Studies",
+      "Aged",
+      "Breast Neoplasms",
+      "Prospective Studies",
+      "Male",
+      "Surveys and Questionnaires",
+      "Adult",
+      "Patient Participation",
+      "Cohort Studies"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42727947": {
+    "pmid": "42727947",
+    "baslik": "Advances in the diagnosis and management of skin and soft tissue infections.",
+    "dergi": "BMJ",
+    "doi": "10.1136/bmj-2026-100580",
+    "tipler": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Soft Tissue Infections",
+      "Anti-Bacterial Agents",
+      "Cellulitis",
+      "Abscess",
+      "Drainage",
+      "Fasciitis, Necrotizing",
+      "Skin Diseases, Bacterial",
+      "Anti-Inflammatory Agents, Non-Steroidal"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "10",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-09-18",
+    "sayi": null
   }
 }

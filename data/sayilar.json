@@ -929,5 +929,197 @@
         "sayi": 6
       }
     ]
+  },
+  {
+    "no": 7,
+    "tarih": "2026-09-18",
+    "kayitlar": [
+      {
+        "pmid": "42744113",
+        "baslik": "Social Media and Crisis Care Principles During Pandemics and Disasters: A Consensus Report From a Subgroup of the Task Force for Mass Critical Care.",
+        "dergi": "Chest",
+        "doi": "10.1016/j.chest.2026.08.049",
+        "tipler": [
+          "Journal Article",
+          "Practice Guideline"
+        ],
+        "mesh": [],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "15",
+        "gerekce": [
+          "Practice Guideline +10",
+          "B dergisi +3"
+        ],
+        "puan": 13,
+        "konular": [],
+        "eklendi": "2026-09-18",
+        "sayi": 7
+      },
+      {
+        "pmid": "42734919",
+        "baslik": "Neonatal Ventilation Training Using a Low-Cost, High-Fidelity Simulator in a Low-Resource Setting: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.33261",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Tanzania",
+          "Female",
+          "Resource-Limited Settings",
+          "Respiration, Artificial",
+          "Infant, Newborn",
+          "Male",
+          "Clinical Competence",
+          "Simulation Training",
+          "High Fidelity Simulation Training",
+          "Adult"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 18,
+        "konular": [
+          "Solunum"
+        ],
+        "eklendi": "2026-09-18",
+        "sayi": 7
+      },
+      {
+        "pmid": "42748429",
+        "baslik": "Trial of a Maternal Diet Rich in Eggs and Peanuts to Reduce Infant Allergy.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2605659",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Infant",
+          "Infant, Newborn",
+          "Male",
+          "Pregnancy",
+          "Arachis",
+          "Diet",
+          "Egg Hypersensitivity",
+          "Eggs",
+          "Immunoglobulin E",
+          "Peanut Hypersensitivity",
+          "Maternal Nutritional Physiological Phenomena",
+          "Treatment Outcome"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "17",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-09-18",
+        "sayi": 7
+      },
+      {
+        "pmid": "42748428",
+        "baslik": "Blinatumomab for Replacing Chemotherapy in Pediatric Acute Lymphoblastic Leukemia.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2604166",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Clinical Trial, Phase III"
+        ],
+        "mesh": [
+          "Adolescent",
+          "Child",
+          "Child, Preschool",
+          "Female",
+          "Humans",
+          "Infant",
+          "Male",
+          "Antibodies, Bispecific",
+          "Antigens, CD19",
+          "Antineoplastic Agents",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Disease-Free Survival",
+          "Intention to Treat Analysis",
+          "Kaplan-Meier Estimate",
+          "Precursor B-Cell Lymphoblastic Leukemia-Lymphoma",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Consolidation Chemotherapy",
+          "Follow-Up Studies",
+          "Infections",
+          "Cytokine Release Syndrome"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "17",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-09-18",
+        "sayi": 7
+      },
+      {
+        "pmid": "42748427",
+        "baslik": "Colonoscopy Intervals and Colorectal Cancer Incidence after Adenoma Removal.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2603816",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Equivalence Trial"
+        ],
+        "mesh": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Adenoma",
+          "Colonic Polyps",
+          "Colonoscopy",
+          "Colorectal Neoplasms",
+          "Early Detection of Cancer",
+          "Follow-Up Studies",
+          "Incidence",
+          "Time Factors",
+          "Neoplasm Staging",
+          "Europe"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "17",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-09-18",
+        "sayi": 7
+      }
+    ]
   }
 ]
