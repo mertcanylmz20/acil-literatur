@@ -1074,7 +1074,7 @@
     "puan": 14,
     "konular": [],
     "eklendi": "2026-08-28",
-    "sayi": null
+    "sayi": 8
   },
   "42658496": {
     "pmid": "42658496",
@@ -1106,7 +1106,7 @@
     "puan": 14,
     "konular": [],
     "eklendi": "2026-08-28",
-    "sayi": null
+    "sayi": 8
   },
   "42693471": {
     "pmid": "42693471",
@@ -1743,7 +1743,7 @@
       "Sepsis"
     ],
     "eklendi": "2026-09-11",
-    "sayi": null
+    "sayi": 8
   },
   "42716044": {
     "pmid": "42716044",
@@ -2761,6 +2761,654 @@
       "Sepsis"
     ],
     "eklendi": "2026-09-18",
+    "sayi": null
+  },
+  "42783373": {
+    "pmid": "42783373",
+    "baslik": "Breast Cancer Index and Recommendations for Extended Endocrine Therapy.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.34974",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Breast Neoplasms",
+      "Middle Aged",
+      "Antineoplastic Agents, Hormonal",
+      "Registries",
+      "Aged",
+      "Prognosis",
+      "Cohort Studies",
+      "Risk Assessment",
+      "Prospective Studies"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42783370": {
+    "pmid": "42783370",
+    "baslik": "Antithrombotic Therapy and Bleeding Risk Among Young Adults After Ischemic Stroke.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.35826",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study",
+      "Observational Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Fibrinolytic Agents",
+      "Male",
+      "Ischemic Stroke",
+      "Female",
+      "Hemorrhage",
+      "Netherlands",
+      "Adult",
+      "Middle Aged",
+      "Prospective Studies",
+      "Risk Factors",
+      "Young Adult",
+      "Adolescent",
+      "Brain Ischemia"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "Observational Study +1",
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 13,
+    "konular": [
+      "Travma",
+      "Nöroloji"
+    ],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42783367": {
+    "pmid": "42783367",
+    "baslik": "Dorsolateral Prefrontal rTMS Symptom Cluster Response Trajectories for Depression.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.36032",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Male",
+      "Adult",
+      "Middle Aged",
+      "Transcranial Magnetic Stimulation",
+      "Major Depressive Disorder",
+      "Dorsolateral Prefrontal Cortex",
+      "Treatment Outcome",
+      "Canada",
+      "Treatment Effect Heterogeneity",
+      "Cohort Studies",
+      "Adolescent",
+      "Young Adult",
+      "Aged",
+      "Prefrontal Cortex"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42778212": {
+    "pmid": "42778212",
+    "baslik": "Contemporary menopausal hormone therapy and thrombotic disease: nationwide nested case-control study.",
+    "dergi": "BMJ",
+    "doi": "10.1136/bmj-2026-100688",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Middle Aged",
+      "Denmark",
+      "Case-Control Studies",
+      "Myocardial Infarction",
+      "Estrogen Replacement Therapy",
+      "Aged",
+      "Venous Thromboembolism",
+      "Ischemic Stroke",
+      "Incidence",
+      "Registries",
+      "Risk Factors",
+      "Menopause",
+      "Progestins",
+      "Estrogens"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "23",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Kardiyoloji",
+      "Nöroloji"
+    ],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42777242": {
+    "pmid": "42777242",
+    "baslik": "Etuvetidigene Autotemcel for the Treatment of Wiskott-Aldrich Syndrome.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMoa2515005",
+    "tipler": [
+      "Journal Article",
+      "Clinical Trial, Phase II",
+      "Clinical Trial, Phase I",
+      "Multicenter Study",
+      "Clinical Trial, Phase III"
+    ],
+    "mesh": [
+      "Child, Preschool",
+      "Humans",
+      "Infant",
+      "Male",
+      "Gene Therapy Agents",
+      "Genetic Therapy",
+      "Genetic Vectors",
+      "Hematopoietic Stem Cell Transplantation",
+      "Hemorrhage",
+      "Prospective Studies",
+      "Wiskott-Aldrich Syndrome",
+      "Wiskott-Aldrich Syndrome Protein",
+      "Transplantation, Autologous",
+      "Infusions, Intravenous",
+      "Rituximab",
+      "Immunologic Factors",
+      "Follow-Up Studies",
+      "Severity of Illness Index",
+      "Catheter-Related Infections",
+      "Central Venous Catheters",
+      "Treatment Outcome",
+      "Child",
+      "Adolescent",
+      "Young Adult",
+      "Adult"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "24",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 12,
+    "konular": [
+      "Travma"
+    ],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42777241": {
+    "pmid": "42777241",
+    "baslik": "Phase 1 Study of Anito-cel, a d-Domain BCMA CAR T Cell for Refractory or Recurrent Myeloma.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMoa2603527",
+    "tipler": [
+      "Journal Article",
+      "Clinical Trial, Phase I",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Adult",
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "B-Cell Maturation Antigen",
+      "Immunotherapy, Adoptive",
+      "Multiple Myeloma",
+      "Receptors, Chimeric Antigen",
+      "Recurrence",
+      "T-Lymphocytes",
+      "Drug Resistance, Neoplasm",
+      "Antineoplastic Agents",
+      "Progression-Free Survival",
+      "Neurotoxicity Syndromes",
+      "Transplantation, Autologous"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "24",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42776532": {
+    "pmid": "42776532",
+    "baslik": "Intravenous vs Oral Iron for Treating Iron Deficiency Anemia in Pregnancy: A Systematic Review and Meta-Analysis.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.30657",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Pregnancy",
+      "Anemia, Iron-Deficiency",
+      "Administration, Oral",
+      "Iron",
+      "Pregnancy Complications, Hematologic",
+      "Administration, Intravenous",
+      "Pregnancy Outcome",
+      "Randomized Controlled Trials as Topic",
+      "Ferritins"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6"
+    ],
+    "puan": 12,
+    "konular": [],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42776530": {
+    "pmid": "42776530",
+    "baslik": "Text Message Delivery of a Digital Tool for Reproductive Health Discussions in Primary Care: A Cluster Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.35075",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Text Messaging",
+      "Female",
+      "Primary Health Care",
+      "Reproductive Health",
+      "Adult",
+      "Adolescent",
+      "Young Adult",
+      "Veterans",
+      "Digital Health",
+      "Male"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42776529": {
+    "pmid": "42776529",
+    "baslik": "Prophylactic vs Therapeutic Anticoagulation in Hospitalized Patients With COVID-19: A Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.35333",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Equivalence Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Male",
+      "Heparin, Low-Molecular-Weight",
+      "Anticoagulants",
+      "COVID-19",
+      "Middle Aged",
+      "Prospective Studies",
+      "Aged",
+      "Pulmonary Embolism",
+      "Hospitalization",
+      "Pyridines",
+      "Venous Thrombosis",
+      "Germany",
+      "SARS-CoV-2",
+      "Hemorrhage",
+      "Thiazoles"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 20,
+    "konular": [
+      "Travma",
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-09-25",
+    "sayi": 8
+  },
+  "42776528": {
+    "pmid": "42776528",
+    "baslik": "Probiotics and Risk of Death, Necrotizing Enterocolitis, and Sepsis in Very Preterm Infants.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.35560",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Probiotics",
+      "Enterocolitis, Necrotizing",
+      "Infant, Newborn",
+      "Sepsis",
+      "Sweden",
+      "Male",
+      "Female",
+      "Cohort Studies",
+      "Infant, Extremely Premature"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42776527": {
+    "pmid": "42776527",
+    "baslik": "In-Hospital Cardiac Resuscitation During Widespread Resident Resignations in South Korea.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.35568",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Republic of Korea",
+      "Cardiopulmonary Resuscitation",
+      "Retrospective Studies",
+      "Heart Arrest",
+      "Male",
+      "Female",
+      "Aged",
+      "Middle Aged",
+      "Internship and Residency"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Resüsitasyon"
+    ],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42776526": {
+    "pmid": "42776526",
+    "baslik": "Presumed Intraductal Papillary Mucinous Neoplasms in Individuals at High Risk for Pancreatic Cancer.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.35610",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Middle Aged",
+      "Pancreatic Neoplasms",
+      "Male",
+      "Incidence",
+      "Italy",
+      "Cohort Studies",
+      "Pancreatic Intraductal Neoplasms",
+      "Disease Progression",
+      "Genetic Predisposition to Disease",
+      "Risk Factors",
+      "Aged",
+      "Carcinoma, Pancreatic Ductal"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42771346": {
+    "pmid": "42771346",
+    "baslik": "DNL343 and Disease Progression in Amyotrophic Lateral Sclerosis: A Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.34809",
+    "tipler": [
+      "Clinical Trial, Phase II",
+      "Clinical Trial, Phase III",
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Amyotrophic Lateral Sclerosis",
+      "Disease Progression",
+      "Double-Blind Method",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-09-25",
+    "sayi": 8
+  },
+  "42771345": {
+    "pmid": "42771345",
+    "baslik": "Decision Moments and Pulmonary Embolism Diagnostic Quality in the Emergency Department.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.35312",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Pulmonary Embolism",
+      "Emergency Service, Hospital",
+      "Retrospective Studies",
+      "Female",
+      "Fibrin Fibrinogen Degradation Products",
+      "Male",
+      "Computed Tomography Angiography",
+      "Michigan",
+      "Middle Aged",
+      "Emergency Room Visits",
+      "Aged",
+      "Clinical Relevance",
+      "Clinical Decision-Making",
+      "Practice Patterns, Physicians'",
+      "Adult"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42766827": {
+    "pmid": "42766827",
+    "baslik": "Diagnostic Yield and Therapeutic Impact of Etiologic Investigations After Status Epilepticus: Insights From the ICTAL Registry.",
+    "dergi": "Neurology",
+    "doi": "10.1212/WNL.0000000000218544",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Status Epilepticus",
+      "Male",
+      "Registries",
+      "Middle Aged",
+      "Aged",
+      "Prospective Studies",
+      "Adult",
+      "France",
+      "Magnetic Resonance Imaging",
+      "Tomography, X-Ray Computed"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "13",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Nöroloji"
+    ],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42766690": {
+    "pmid": "42766690",
+    "baslik": "Acute Coronary Syndrome in Kawasaki Disease From Infancy to Adulthood.",
+    "dergi": "Circulation",
+    "doi": "10.1161/CIRCULATIONAHA.126.080727",
+    "tipler": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Mucocutaneous Lymph Node Syndrome",
+      "Acute Coronary Syndrome",
+      "Coronary Aneurysm",
+      "Infant",
+      "Adult",
+      "Child",
+      "Risk Factors",
+      "Child, Preschool",
+      "Adolescent"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "22",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-09-25",
+    "sayi": null
+  },
+  "42759966": {
+    "pmid": "42759966",
+    "baslik": "Quantifying the impact of prehospital arterial line insertion on scene time.",
+    "dergi": "Emerg Med J",
+    "doi": "10.1136/emermed-2026-215949",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Emergency Medical Services",
+      "Time Factors"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "18",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6"
+    ],
+    "puan": 12,
+    "konular": [],
+    "eklendi": "2026-09-25",
     "sayi": null
   }
 }

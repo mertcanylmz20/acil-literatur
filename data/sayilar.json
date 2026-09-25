@@ -1121,5 +1121,196 @@
         "sayi": 7
       }
     ]
+  },
+  {
+    "no": 8,
+    "tarih": "2026-09-25",
+    "kayitlar": [
+      {
+        "pmid": "42776529",
+        "baslik": "Prophylactic vs Therapeutic Anticoagulation in Hospitalized Patients With COVID-19: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.35333",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Equivalence Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Male",
+          "Heparin, Low-Molecular-Weight",
+          "Anticoagulants",
+          "COVID-19",
+          "Middle Aged",
+          "Prospective Studies",
+          "Aged",
+          "Pulmonary Embolism",
+          "Hospitalization",
+          "Pyridines",
+          "Venous Thrombosis",
+          "Germany",
+          "SARS-CoV-2",
+          "Hemorrhage",
+          "Thiazoles"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 20,
+        "konular": [
+          "Travma",
+          "Kardiyoloji"
+        ],
+        "eklendi": "2026-09-25",
+        "sayi": 8
+      },
+      {
+        "pmid": "42771346",
+        "baslik": "DNL343 and Disease Progression in Amyotrophic Lateral Sclerosis: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.34809",
+        "tipler": [
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Amyotrophic Lateral Sclerosis",
+          "Disease Progression",
+          "Double-Blind Method",
+          "Treatment Outcome"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-09-25",
+        "sayi": 8
+      },
+      {
+        "pmid": "42720951",
+        "baslik": "Cefepime and Mortality: A Systematic Review and Bayesian Meta-Analysis.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.33017",
+        "tipler": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis"
+        ],
+        "mesh": [
+          "Cefepime",
+          "Humans",
+          "Bayes Theorem",
+          "Anti-Bacterial Agents",
+          "Randomized Controlled Trials as Topic",
+          "Third Generation Cephalosporins",
+          "Febrile Neutropenia"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "01",
+        "gerekce": [
+          "Systematic Review +6",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 16,
+        "konular": [
+          "Sepsis"
+        ],
+        "eklendi": "2026-09-11",
+        "sayi": 8
+      },
+      {
+        "pmid": "42658497",
+        "baslik": "Cognitive Behavior vs Bright Light Therapy for Insomnia in Women Undergoing Chemotherapy for Breast Cancer: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.30320",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Sleep Initiation and Maintenance Disorders",
+          "Breast Neoplasms",
+          "Cognitive Behavioral Therapy",
+          "Middle Aged",
+          "Phototherapy",
+          "Adult",
+          "Fatigue",
+          "Australia",
+          "Treatment Outcome",
+          "Quality of Life",
+          "Aged"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-08-28",
+        "sayi": 8
+      },
+      {
+        "pmid": "42658496",
+        "baslik": "A Multilevel Intervention to Identify Individuals for Genetic Testing and Treatment: The IGNITE-TX Pilot Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.30668",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Pilot Projects",
+          "Female",
+          "Genetic Testing",
+          "Adult",
+          "Middle Aged",
+          "Hereditary Breast and Ovarian Cancer Syndrome",
+          "Colorectal Neoplasms, Hereditary Nonpolyposis",
+          "Feasibility Studies"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-08-28",
+        "sayi": 8
+      }
+    ]
   }
 ]
