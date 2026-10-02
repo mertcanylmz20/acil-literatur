@@ -1312,5 +1312,192 @@
         "sayi": 8
       }
     ]
+  },
+  {
+    "no": 9,
+    "tarih": "2026-10-02",
+    "kayitlar": [
+      {
+        "pmid": "42804570",
+        "baslik": "2026 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+        "dergi": "Circulation",
+        "doi": "10.1161/CIR.0000000000001472",
+        "tipler": [
+          "Journal Article",
+          "Practice Guideline",
+          "Review"
+        ],
+        "mesh": [
+          "Humans",
+          "American Heart Association",
+          "Cardiovascular Diseases",
+          "Perioperative Care",
+          "United States",
+          "Cardiology",
+          "Surgical Procedures, Operative"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "29",
+        "gerekce": [
+          "Practice Guideline +10",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-10-02",
+        "sayi": 9
+      },
+      {
+        "pmid": "42813718",
+        "baslik": "2026 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
+        "dergi": "J Am Coll Cardiol",
+        "doi": "10.1016/j.jacc.2026.06.017",
+        "tipler": [
+          "Journal Article",
+          "Practice Guideline",
+          "Review"
+        ],
+        "mesh": [
+          "Humans",
+          "Cardiovascular Diseases",
+          "American Heart Association",
+          "Perioperative Care",
+          "United States",
+          "Cardiology",
+          "Surgical Procedures, Operative"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "29",
+        "gerekce": [
+          "Practice Guideline +10",
+          "B dergisi +3"
+        ],
+        "puan": 13,
+        "konular": [],
+        "eklendi": "2026-10-02",
+        "sayi": 9
+      },
+      {
+        "pmid": "42814929",
+        "baslik": "Giredestrant plus Everolimus in Advanced Breast Cancer.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2602457",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Adult",
+          "Aged",
+          "Female",
+          "Humans",
+          "Middle Aged",
+          "Antineoplastic Agents, Hormonal",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Breast Neoplasms",
+          "Carbolines",
+          "Disease Progression",
+          "Estrogen Receptor alpha",
+          "Everolimus",
+          "Mutation",
+          "Neoplasm Recurrence, Local",
+          "Progression-Free Survival",
+          "Receptors, Estrogen",
+          "MTOR Inhibitors",
+          "Drug Resistance, Neoplasm",
+          "Administration, Oral",
+          "Time Factors",
+          "Signal Transduction",
+          "Male",
+          "Aged, 80 and over",
+          "Breast Neoplasms, Male"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-10-02",
+        "sayi": 9
+      },
+      {
+        "pmid": "42791574",
+        "baslik": "Indirect calorimetry-guided nutrition during weaning from prolonged mechanical ventilation: a double-blind randomized controlled trial.",
+        "dergi": "Crit Care",
+        "doi": "10.1186/s13054-026-06272-7",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Double-Blind Method",
+          "Ventilator Weaning",
+          "Calorimetry, Indirect",
+          "Female",
+          "Male",
+          "Middle Aged",
+          "Aged",
+          "Respiration, Artificial"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "28",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "B dergisi +3",
+          "öncelikli konu +4"
+        ],
+        "puan": 15,
+        "konular": [
+          "Solunum"
+        ],
+        "eklendi": "2026-10-02",
+        "sayi": 9
+      },
+      {
+        "pmid": "42684700",
+        "baslik": "Care Navigation for Methamphetamine Use Disorder: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.31628",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Methamphetamine",
+          "Male",
+          "Amphetamine-Related Disorders",
+          "Patient Navigation",
+          "Female",
+          "Adult",
+          "Colorado",
+          "Prospective Studies",
+          "Middle Aged",
+          "Adherence Interventions"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-09-04",
+        "sayi": 9
+      }
+    ]
   }
 ]
