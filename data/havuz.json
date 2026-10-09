@@ -211,121 +211,6 @@
     "eklendi": "2026-08-27",
     "sayi": 4
   },
-  "42646838": {
-    "pmid": "42646838",
-    "baslik": "Exceptional Parental Longevity and Onset of Morbidity and Mortality Across Cohorts.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.30964",
-    "tipler": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Longevity",
-      "Male",
-      "Aged, 80 and over",
-      "Parents",
-      "Cardiovascular Diseases",
-      "Longitudinal Studies",
-      "United Kingdom",
-      "Neoplasms",
-      "Hypertension",
-      "Morbidity",
-      "Cohort Studies",
-      "Aged",
-      "United States",
-      "Stroke",
-      "Age of Onset"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "03",
-    "gerekce": [
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 10,
-    "konular": [
-      "Nöroloji"
-    ],
-    "eklendi": "2026-08-27",
-    "sayi": null
-  },
-  "42646836": {
-    "pmid": "42646836",
-    "baslik": "Domain-Specific Cognitive Concordance in Older Married Couples.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.31017",
-    "tipler": [
-      "Journal Article",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Male",
-      "Cross-Sectional Studies",
-      "Republic of Korea",
-      "Aged",
-      "Spouses",
-      "Cognition",
-      "Longitudinal Studies",
-      "Aged, 80 and over",
-      "Neuropsychological Tests",
-      "Marriage"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "03",
-    "gerekce": [
-      "Multicenter Study +2",
-      "A dergisi +6"
-    ],
-    "puan": 8,
-    "konular": [],
-    "eklendi": "2026-08-27",
-    "sayi": null
-  },
-  "42640642": {
-    "pmid": "42640642",
-    "baslik": "Methadone vs Buprenorphine-Naloxone in Opioid Overdose Survivors.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.29313",
-    "tipler": [
-      "Journal Article",
-      "Comparative Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Methadone",
-      "Opiate Overdose",
-      "Retrospective Studies",
-      "Buprenorphine, Naloxone Drug Combination",
-      "Adult",
-      "Male",
-      "Ontario",
-      "Opiate Substitution Treatment",
-      "Drug Overdose",
-      "Opioid-Related Disorders",
-      "Narcotic Antagonists",
-      "Analgesics, Opioid"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "03",
-    "gerekce": [
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 10,
-    "konular": [
-      "Toksikoloji"
-    ],
-    "eklendi": "2026-08-27",
-    "sayi": null
-  },
   "42640641": {
     "pmid": "42640641",
     "baslik": "Safety and Preliminary Efficacy of Dengue Monoclonal Antibody in Adult Patients: A Randomized Clinical Trial.",
@@ -397,274 +282,6 @@
     "konular": [],
     "eklendi": "2026-08-27",
     "sayi": 4
-  },
-  "42638131": {
-    "pmid": "42638131",
-    "baslik": "ICU-specific virtual reality for mental health after critical illness: an international three-arm randomized clinical trial.",
-    "dergi": "Crit Care",
-    "doi": "10.1186/s13054-026-06186-4",
-    "tipler": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Middle Aged",
-      "Critical Illness",
-      "Intensive Care Units",
-      "Female",
-      "Male",
-      "Stress Disorders, Post-Traumatic",
-      "Aged",
-      "Quality of Life",
-      "Virtual Reality",
-      "Depression",
-      "Anxiety",
-      "Mental Health",
-      "Adult"
-    ],
-    "yil": "2026",
-    "ay": "Jul",
-    "gun": "24",
-    "gerekce": [
-      "Randomized Controlled Trial +8",
-      "Multicenter Study +2",
-      "B dergisi +3"
-    ],
-    "puan": 13,
-    "konular": [],
-    "eklendi": "2026-08-27",
-    "sayi": null
-  },
-  "42636314": {
-    "pmid": "42636314",
-    "baslik": "Vasoactive Agent Selection Strategies in the Management of Cardiogenic Shock.",
-    "dergi": "Circulation",
-    "doi": "10.1161/CIRCULATIONAHA.126.079463",
-    "tipler": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Shock, Cardiogenic",
-      "Vasoconstrictor Agents",
-      "Hemodynamics"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "25",
-    "gerekce": [
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 10,
-    "konular": [
-      "Sepsis",
-      "Kardiyoloji"
-    ],
-    "eklendi": "2026-08-27",
-    "sayi": null
-  },
-  "42635985": {
-    "pmid": "42635985",
-    "baslik": "Completion Rates of Screening Examinations for Hearing Among Preschool-Aged Children.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.30641",
-    "tipler": [
-      "Journal Article",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Child, Preschool",
-      "Male",
-      "Prospective Studies",
-      "Mass Screening",
-      "Female",
-      "Audiometry, Pure-Tone",
-      "California",
-      "Hearing Loss",
-      "Otoacoustic Emissions, Spontaneous"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "03",
-    "gerekce": [
-      "Multicenter Study +2",
-      "A dergisi +6"
-    ],
-    "puan": 8,
-    "konular": [],
-    "eklendi": "2026-08-27",
-    "sayi": null
-  },
-  "42635809": {
-    "pmid": "42635809",
-    "baslik": "Pattern of blast injuries. A Systematic Review: Part 1-Improvised, multiple and unspecified explosive devices.",
-    "dergi": "Eur J Trauma Emerg Surg",
-    "doi": "10.1007/s00068-026-03261-x",
-    "tipler": [
-      "Journal Article",
-      "Systematic Review",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Blast Injuries",
-      "Military Personnel",
-      "Explosive Agents",
-      "Explosions",
-      "Thoracic Injuries"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "24",
-    "gerekce": [
-      "Systematic Review +6",
-      "B dergisi +3"
-    ],
-    "puan": 9,
-    "konular": [],
-    "eklendi": "2026-08-27",
-    "sayi": null
-  },
-  "42635672": {
-    "pmid": "42635672",
-    "baslik": "Significant other reported outcome measures within European cohorts of severely injured patients: A systematic review.",
-    "dergi": "Eur J Trauma Emerg Surg",
-    "doi": "10.1007/s00068-026-03286-2",
-    "tipler": [
-      "Journal Article",
-      "Systematic Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Quality of Life",
-      "Europe",
-      "Patient Reported Outcome Measures",
-      "Adaptation, Psychological",
-      "Wounds and Injuries",
-      "Caregivers",
-      "Anxiety",
-      "Multiple Trauma",
-      "Depression"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "24",
-    "gerekce": [
-      "Systematic Review +6",
-      "B dergisi +3",
-      "öncelikli konu +4"
-    ],
-    "puan": 13,
-    "konular": [
-      "Travma"
-    ],
-    "eklendi": "2026-08-27",
-    "sayi": null
-  },
-  "42629591": {
-    "pmid": "42629591",
-    "baslik": "Psychosocial coping with intensive care delirium: a mixed-methods systematic review of patient and family perspectives.",
-    "dergi": "Crit Care",
-    "doi": "10.1186/s13054-026-06232-1",
-    "tipler": [
-      "Journal Article",
-      "Systematic Review",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Adaptation, Psychological",
-      "Coping Skills",
-      "Delirium",
-      "Intensive Care Units",
-      "Family",
-      "Critical Care",
-      "Patients",
-      "Qualitative Research",
-      "Caregivers",
-      "Stress, Psychological"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "21",
-    "gerekce": [
-      "Systematic Review +6",
-      "B dergisi +3"
-    ],
-    "puan": 9,
-    "konular": [],
-    "eklendi": "2026-08-27",
-    "sayi": null
-  },
-  "42629001": {
-    "pmid": "42629001",
-    "baslik": "Diagnosis and management of acute hyperkalaemia.",
-    "dergi": "BMJ",
-    "doi": "10.1136/bmj-2026-100287",
-    "tipler": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Hyperkalemia",
-      "Potassium",
-      "Acute Disease",
-      "Risk Factors"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "21",
-    "gerekce": [
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 10,
-    "konular": [
-      "Metabolik"
-    ],
-    "eklendi": "2026-08-27",
-    "sayi": null
-  },
-  "42627664": {
-    "pmid": "42627664",
-    "baslik": "Adherence to Sedative Weaning Opportunities and Length of Stay for Critically Ill Children.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.29399",
-    "tipler": [
-      "Journal Article",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Male",
-      "Hypnotics and Sedatives",
-      "Female",
-      "Length of Stay",
-      "Critical Illness",
-      "Child, Preschool",
-      "Intensive Care Units, Pediatric",
-      "Infant",
-      "Guideline Adherence",
-      "Child",
-      "Cohort Studies"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "03",
-    "gerekce": [
-      "Multicenter Study +2",
-      "A dergisi +6"
-    ],
-    "puan": 8,
-    "konular": [],
-    "eklendi": "2026-08-27",
-    "sayi": null
   },
   "42627661": {
     "pmid": "42627661",
@@ -743,39 +360,6 @@
     ],
     "eklendi": "2026-08-27",
     "sayi": 3
-  },
-  "42624157": {
-    "pmid": "42624157",
-    "baslik": "Risk of transmission of amyloid β pathology via transfused blood products.",
-    "dergi": "Lancet",
-    "doi": "10.1016/S0140-6736(26)00767-1",
-    "tipler": [
-      "Journal Article",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Amyloid beta-Peptides",
-      "Creutzfeldt-Jakob Syndrome",
-      "Transfusion Reaction",
-      "Blood Transfusion",
-      "Cerebral Amyloid Angiopathy",
-      "Prions",
-      "Prion Diseases"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "22",
-    "gerekce": [
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 10,
-    "konular": [
-      "Travma"
-    ],
-    "eklendi": "2026-08-27",
-    "sayi": null
   },
   "42624156": {
     "pmid": "42624156",
@@ -925,45 +509,6 @@
     "konular": [],
     "eklendi": "2026-08-27",
     "sayi": 4
-  },
-  "42622881": {
-    "pmid": "42622881",
-    "baslik": "Early treatment goal uncertainty as a barrier to regional analgesia and respiratory deterioration in traumatic rib fractures: a propensity-weighted analysis.",
-    "dergi": "Eur J Trauma Emerg Surg",
-    "doi": "10.1007/s00068-026-03299-x",
-    "tipler": [
-      "Journal Article",
-      "Observational Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Rib Fractures",
-      "Male",
-      "Female",
-      "Middle Aged",
-      "Propensity Score",
-      "Analgesia",
-      "Intensive Care Units",
-      "Adult",
-      "Uncertainty",
-      "Respiratory Insufficiency",
-      "Aged",
-      "Anesthesia, Conduction"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "20",
-    "gerekce": [
-      "Observational Study +1",
-      "B dergisi +3",
-      "öncelikli konu +4"
-    ],
-    "puan": 8,
-    "konular": [
-      "Solunum"
-    ],
-    "eklendi": "2026-08-27",
-    "sayi": null
   },
   "42618951": {
     "pmid": "42618951",
@@ -1600,7 +1145,7 @@
     "puan": 14,
     "konular": [],
     "eklendi": "2026-09-04",
-    "sayi": null
+    "sayi": 10
   },
   "42671836": {
     "pmid": "42671836",
@@ -1837,7 +1382,7 @@
     "puan": 14,
     "konular": [],
     "eklendi": "2026-09-11",
-    "sayi": null
+    "sayi": 10
   },
   "42714909": {
     "pmid": "42714909",
@@ -1870,7 +1415,7 @@
     "puan": 14,
     "konular": [],
     "eklendi": "2026-09-11",
-    "sayi": null
+    "sayi": 10
   },
   "42714908": {
     "pmid": "42714908",
@@ -4175,5 +3720,303 @@
     ],
     "eklendi": "2026-10-02",
     "sayi": 9
+  },
+  "42848972": {
+    "pmid": "42848972",
+    "baslik": "Effects of Blood Pressure Lowering by Hematoma Location in Acute Intracerebral Hemorrhage.",
+    "dergi": "Neurology",
+    "doi": "10.1212/WNL.0000000000218514",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Cerebral Hemorrhage",
+      "Female",
+      "Antihypertensive Agents",
+      "Hematoma",
+      "Male",
+      "Aged",
+      "Middle Aged",
+      "Blood Pressure",
+      "Treatment Outcome",
+      "Acute Disease",
+      "Treatment Effect Heterogeneity"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "10",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 15,
+    "konular": [
+      "Nöroloji"
+    ],
+    "eklendi": "2026-10-09",
+    "sayi": 10
+  },
+  "42842903": {
+    "pmid": "42842903",
+    "baslik": "Optogenetic Therapy for Restoring Aspects of Visual Function.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMoa2602215",
+    "tipler": [
+      "Clinical Trial, Phase I",
+      "Journal Article",
+      "Multicenter Study",
+      "Video-Audio Media"
+    ],
+    "mesh": [
+      "Adult",
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Dependovirus",
+      "Gene Therapy Agents",
+      "Genetic Therapy",
+      "Genetic Vectors",
+      "Intravitreal Injections",
+      "Optogenetics",
+      "Retinal Ganglion Cells",
+      "Retinitis Pigmentosa",
+      "Rhodopsin",
+      "Visual Acuity",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "08",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-10-09",
+    "sayi": null
+  },
+  "42842303": {
+    "pmid": "42842303",
+    "baslik": "Risk Stratification of Acute Pulmonary Embolism: Outcomes in Patients With Intermediate sPESI Scores and Negative Cardiac Biomarkers.",
+    "dergi": "Acad Emerg Med",
+    "doi": "10.1111/acem.70425",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Pulmonary Embolism",
+      "Retrospective Studies",
+      "Biomarkers",
+      "Female",
+      "Risk Assessment",
+      "Male",
+      "Aged",
+      "Severity of Illness Index",
+      "Middle Aged",
+      "United States",
+      "Anticoagulants",
+      "Prognosis",
+      "Acute Disease",
+      "Emergency Service, Hospital",
+      "Natriuretic Peptide, Brain"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-10-09",
+    "sayi": null
+  },
+  "42842248": {
+    "pmid": "42842248",
+    "baslik": "Chatbot Intervention and Cancer Risk Knowledge in Adolescents and Young Adults With Cancer Predisposition: A Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.35794",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Adolescent",
+      "Young Adult",
+      "Neoplasms",
+      "Health Knowledge, Attitudes, Practice",
+      "Male",
+      "Genetic Predisposition to Disease",
+      "Adult",
+      "Child",
+      "Patient Education as Topic"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-10-09",
+    "sayi": null
+  },
+  "42841996": {
+    "pmid": "42841996",
+    "baslik": "Costs and health-related quality of life of non-operative and surgical treatment modalities for displaced distal radius fractures: a comprehensive overview based on the CAST study.",
+    "dergi": "Eur J Trauma Emerg Surg",
+    "doi": "10.1007/s00068-026-03354-7",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Quality of Life",
+      "Radius Fractures",
+      "Female",
+      "Casts, Surgical",
+      "Male",
+      "Bone Plates",
+      "Health Care Costs",
+      "Middle Aged",
+      "Wrist Fractures",
+      "Aged",
+      "Surveys and Questionnaires",
+      "Adult",
+      "Splints",
+      "Fracture Fixation, Internal",
+      "Prospective Studies"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "07",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "B dergisi +3"
+    ],
+    "puan": 13,
+    "konular": [],
+    "eklendi": "2026-10-09",
+    "sayi": null
+  },
+  "42837646": {
+    "pmid": "42837646",
+    "baslik": "Dual Antiglutamate Therapy in Super-Refractory Status Epilepticus After Cardiac Arrest (SUPER-CAT Study).",
+    "dergi": "Neurology",
+    "doi": "10.1212/WNL.0000000000218565",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study",
+      "Observational Study"
+    ],
+    "mesh": [
+      "Aged",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Anticonvulsants",
+      "Cohort Studies",
+      "Drug Therapy, Combination",
+      "Heart Arrest",
+      "Ketamine",
+      "Pyridones",
+      "Receptors, AMPA",
+      "Receptors, N-Methyl-D-Aspartate",
+      "Status Epilepticus",
+      "Treatment Outcome",
+      "Nitriles"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "27",
+    "gerekce": [
+      "Multicenter Study +2",
+      "Observational Study +1",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Resüsitasyon",
+      "Nöroloji"
+    ],
+    "eklendi": "2026-10-09",
+    "sayi": null
+  },
+  "42837153": {
+    "pmid": "42837153",
+    "baslik": "Combat Injury, Limb Loss, Traumatic Brain Injury, and Psychosocial Outcomes Among Military Personnel.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.37592",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Military Personnel",
+      "Male",
+      "Brain Injuries, Traumatic",
+      "Adult",
+      "Afghan Campaign 2001-",
+      "Stress Disorders, Post-Traumatic",
+      "United Kingdom",
+      "Prospective Studies",
+      "Female",
+      "Depression",
+      "Anxiety"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Travma"
+    ],
+    "eklendi": "2026-10-09",
+    "sayi": null
+  },
+  "42832807": {
+    "pmid": "42832807",
+    "baslik": "Visual Guideline - Pharmacologic Treatments for Females With Menopausal Vasomotor Symptoms: A Visual Clinical Guideline From the American College of Physicians.",
+    "dergi": "Ann Intern Med",
+    "doi": "10.7326/ANNALS-26-01205-VG",
+    "tipler": [
+      "Guideline",
+      "Journal Article"
+    ],
+    "mesh": [],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "06",
+    "gerekce": [
+      "Guideline +10",
+      "B dergisi +3"
+    ],
+    "puan": 13,
+    "konular": [],
+    "eklendi": "2026-10-09",
+    "sayi": 10
   }
 }

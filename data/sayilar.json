@@ -1499,5 +1499,177 @@
         "sayi": 9
       }
     ]
+  },
+  {
+    "no": 10,
+    "tarih": "2026-10-09",
+    "kayitlar": [
+      {
+        "pmid": "42832807",
+        "baslik": "Visual Guideline - Pharmacologic Treatments for Females With Menopausal Vasomotor Symptoms: A Visual Clinical Guideline From the American College of Physicians.",
+        "dergi": "Ann Intern Med",
+        "doi": "10.7326/ANNALS-26-01205-VG",
+        "tipler": [
+          "Guideline",
+          "Journal Article"
+        ],
+        "mesh": [],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "06",
+        "gerekce": [
+          "Guideline +10",
+          "B dergisi +3"
+        ],
+        "puan": 13,
+        "konular": [],
+        "eklendi": "2026-10-09",
+        "sayi": 10
+      },
+      {
+        "pmid": "42848972",
+        "baslik": "Effects of Blood Pressure Lowering by Hematoma Location in Acute Intracerebral Hemorrhage.",
+        "dergi": "Neurology",
+        "doi": "10.1212/WNL.0000000000218514",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Cerebral Hemorrhage",
+          "Female",
+          "Antihypertensive Agents",
+          "Hematoma",
+          "Male",
+          "Aged",
+          "Middle Aged",
+          "Blood Pressure",
+          "Treatment Outcome",
+          "Acute Disease",
+          "Treatment Effect Heterogeneity"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "10",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "B dergisi +3",
+          "öncelikli konu +4"
+        ],
+        "puan": 15,
+        "konular": [
+          "Nöroloji"
+        ],
+        "eklendi": "2026-10-09",
+        "sayi": 10
+      },
+      {
+        "pmid": "42671837",
+        "baslik": "Dose-Dependent Effects of Cannabis Edibles on Simulated Driving Performance: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.31306",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Research Support, Non-U.S. Gov't"
+        ],
+        "mesh": [
+          "Humans",
+          "Adult",
+          "Double-Blind Method",
+          "Female",
+          "Dronabinol",
+          "Cross-Over Studies",
+          "Automobile Driving",
+          "Male",
+          "Dose-Response Relationship, Drug",
+          "Middle Aged",
+          "Cannabis",
+          "Ontario",
+          "Young Adult",
+          "Psychomotor Performance",
+          "Computer Simulation"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "03",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-09-04",
+        "sayi": 10
+      },
+      {
+        "pmid": "42714910",
+        "baslik": "Perioperative Depression and Anxiety Care in Older Patients: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.32619",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Aged",
+          "Male",
+          "Depression",
+          "Single-Blind Method",
+          "Anxiety",
+          "Perioperative Care",
+          "Middle Aged",
+          "Aged, 80 and over",
+          "Postoperative Complications"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-09-11",
+        "sayi": 10
+      },
+      {
+        "pmid": "42714909",
+        "baslik": "Smoke-Free Home Intervention in Permanent Supportive Housing: A Cluster Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.32697",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Male",
+          "Female",
+          "Adult",
+          "Middle Aged",
+          "Smoking Cessation",
+          "Tobacco Smoke Pollution",
+          "San Francisco",
+          "Public Housing",
+          "Ill-Housed Persons"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-09-11",
+        "sayi": 10
+      }
+    ]
   }
 ]
