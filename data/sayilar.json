@@ -1671,5 +1671,228 @@
         "sayi": 10
       }
     ]
+  },
+  {
+    "no": 11,
+    "tarih": "2026-10-16",
+    "kayitlar": [
+      {
+        "pmid": "42867860",
+        "baslik": "Thrombectomy for Acute Stroke Due to Medium Vessel Occlusion Across Perfusion Mismatch Profiles: A Post Hoc Analysis of the ESCAPE-MeVO Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.38823",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Thrombectomy",
+          "Female",
+          "Male",
+          "Stroke",
+          "Aged",
+          "Treatment Outcome",
+          "Endovascular Procedures",
+          "Europe",
+          "United Kingdom"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 20,
+        "konular": [
+          "Nöroloji"
+        ],
+        "eklendi": "2026-10-16",
+        "sayi": 11
+      },
+      {
+        "pmid": "42872757",
+        "baslik": "Early Discharge Strategy Including Subcutaneous Furosemide in Hospitalized Heart Failure.",
+        "dergi": "J Am Coll Cardiol",
+        "doi": "10.1016/j.jacc.2026.07.047",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Heart Failure",
+          "Female",
+          "Furosemide",
+          "Male",
+          "Patient Discharge",
+          "Aged",
+          "Diuretics",
+          "Injections, Subcutaneous",
+          "Treatment Outcome",
+          "Infusions, Subcutaneous",
+          "Middle Aged",
+          "Time Factors",
+          "Length of Stay"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "13",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "B dergisi +3",
+          "öncelikli konu +4"
+        ],
+        "puan": 17,
+        "konular": [
+          "Kardiyoloji"
+        ],
+        "eklendi": "2026-10-16",
+        "sayi": 11
+      },
+      {
+        "pmid": "42874619",
+        "baslik": "Safety and efficacy of delpacibart zotadirsen in Duchenne muscular dystrophy mutations amenable to exon 44 skipping in the USA (EXPLORE44): a randomised, placebo-controlled, double-blind, phase 1/2 trial.",
+        "dergi": "Lancet Neurol",
+        "doi": "10.1016/S1474-4422(26)00337-6",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II",
+          "Clinical Trial, Phase I",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Adolescent",
+          "Adult",
+          "Child",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Young Adult",
+          "Double-Blind Method",
+          "Dystrophin",
+          "Exons",
+          "Morpholinos",
+          "Muscular Dystrophy, Duchenne",
+          "Mutation",
+          "Oligonucleotides",
+          "Treatment Outcome"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-10-16",
+        "sayi": 11
+      },
+      {
+        "pmid": "42874104",
+        "baslik": "Long-Acting HIV Therapy in African Adults with Adherence Challenges.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2518753",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study",
+          "Comparative Study",
+          "Equivalence Trial"
+        ],
+        "mesh": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Administration, Oral",
+          "Anti-HIV Agents",
+          "Delayed-Action Preparations",
+          "Diketopiperazines",
+          "Drug Therapy, Combination",
+          "HIV Infections",
+          "HIV-1",
+          "Injections, Intramuscular",
+          "Medication Adherence",
+          "Pyridones",
+          "Rilpivirine",
+          "Viral Load",
+          "Dolutegravir",
+          "Kenya",
+          "Uganda",
+          "South Africa",
+          "Treatment Outcome",
+          "Drug Administration Schedule",
+          "Young Adult"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "15",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-10-16",
+        "sayi": 11
+      },
+      {
+        "pmid": "42874103",
+        "baslik": "Phase 2 Trial of Icotrokinra for Patients with Ulcerative Colitis.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2604435",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase II",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Young Adult",
+          "Administration, Oral",
+          "Colitis, Ulcerative",
+          "Dose-Response Relationship, Drug",
+          "Double-Blind Method",
+          "Receptors, Interleukin",
+          "Remission Induction",
+          "Peptides, Cyclic",
+          "Severity of Illness Index",
+          "Colon",
+          "Colonoscopy",
+          "Treatment Outcome"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "15",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-10-16",
+        "sayi": 11
+      }
+    ]
   }
 ]

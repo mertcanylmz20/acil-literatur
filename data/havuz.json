@@ -548,43 +548,6 @@
     "eklendi": "2026-08-27",
     "sayi": 4
   },
-  "42661221": {
-    "pmid": "42661221",
-    "baslik": "Left ventricular unloading during VA-ECMO for refractory cardiogenic shock: a target trial emulation multicenter analysis.",
-    "dergi": "Crit Care",
-    "doi": "10.1186/s13054-026-06213-4",
-    "tipler": [
-      "Journal Article",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Shock, Cardiogenic",
-      "Extracorporeal Membrane Oxygenation",
-      "Retrospective Studies",
-      "Male",
-      "Middle Aged",
-      "Female",
-      "Adult",
-      "Propensity Score",
-      "Intra-Aortic Balloon Pumping",
-      "Aged"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "27",
-    "gerekce": [
-      "Multicenter Study +2",
-      "B dergisi +3",
-      "öncelikli konu +4"
-    ],
-    "puan": 9,
-    "konular": [
-      "Kardiyoloji"
-    ],
-    "eklendi": "2026-08-28",
-    "sayi": null
-  },
   "42658497": {
     "pmid": "42658497",
     "baslik": "Cognitive Behavior vs Bright Light Therapy for Insomnia in Women Undergoing Chemotherapy for Breast Cancer: A Randomized Clinical Trial.",
@@ -4018,5 +3981,964 @@
     "konular": [],
     "eklendi": "2026-10-09",
     "sayi": 10
+  },
+  "42879724": {
+    "pmid": "42879724",
+    "baslik": "Intracerebral Hemorrhage Expansion in Late Presenters: Proposed Target Expansion Criteria.",
+    "dergi": "Neurology",
+    "doi": "10.1212/WNL.0000000000218675",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Cerebral Hemorrhage",
+      "Male",
+      "Retrospective Studies",
+      "Female",
+      "Aged",
+      "Hematoma",
+      "Middle Aged",
+      "Computed Tomography Angiography",
+      "Tomography, X-Ray Computed",
+      "Disease Progression",
+      "Time Factors"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "10",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Nöroloji"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42879157": {
+    "pmid": "42879157",
+    "baslik": "Laser Therapy for Sexual Health in Breast Cancer Survivors Receiving Aromatase Inhibitors: A Secondary Analysis of a Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.38937",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Aromatase Inhibitors",
+      "Middle Aged",
+      "Breast Neoplasms",
+      "Cancer Survivors",
+      "Double-Blind Method",
+      "Spain",
+      "Dyspareunia",
+      "Sexual Health",
+      "Laser Therapy",
+      "Quality of Life",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42879155": {
+    "pmid": "42879155",
+    "baslik": "Socioeconomic Inequality and Major Adverse Cardiovascular Events.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39072",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Denmark",
+      "Female",
+      "Male",
+      "Socioeconomic Disparities in Health",
+      "Cardiovascular Diseases",
+      "Middle Aged",
+      "Adult",
+      "Aged",
+      "Low Socioeconomic Status",
+      "Cohort Studies",
+      "Incidence",
+      "Income",
+      "Registries",
+      "Socioeconomic Factors",
+      "Myocardial Infarction"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42879152": {
+    "pmid": "42879152",
+    "baslik": "Disparities in α1-Antitrypsin Deficiency Testing and Treatment in US Adults.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39328",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "United States",
+      "Retrospective Studies",
+      "alpha 1-Antitrypsin Deficiency",
+      "Pulmonary Disease, Chronic Obstructive",
+      "Middle Aged",
+      "Male",
+      "Asthma",
+      "Healthcare Disparities",
+      "Aged",
+      "Undertreatment"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 12,
+    "konular": [
+      "Solunum"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42879151": {
+    "pmid": "42879151",
+    "baslik": "Prehospital Point-of-Care GFAP for Detection of Intracranial Hemorrhage in Acute Nontraumatic Coma.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39337",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Glial Fibrillary Acidic Protein",
+      "Middle Aged",
+      "Male",
+      "Female",
+      "Biomarkers",
+      "Ubiquitin Thiolesterase",
+      "Point-of-Care Systems",
+      "Aged",
+      "Intracranial Hemorrhages",
+      "Sensitivity and Specificity",
+      "Coma",
+      "Emergency Medical Services",
+      "Adult",
+      "Glasgow Coma Scale",
+      "Rapid Diagnostic Tests"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Tanısal"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42878300": {
+    "pmid": "42878300",
+    "baslik": "Association between the emergency department length of stay in patients requiring hospitalization and in-hospital mortality: a systematic review and meta-analysis.",
+    "dergi": "Emergencias",
+    "doi": "10.55633/s3me/107.2026",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Hospital Mortality",
+      "Length of Stay",
+      "Emergency Service, Hospital",
+      "Hospitalization"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "",
+    "gerekce": [
+      "Systematic Review +6",
+      "B dergisi +3"
+    ],
+    "puan": 9,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42878298": {
+    "pmid": "42878298",
+    "baslik": "Exploring the triage accuracy of the Manchester Triage System and the Emergency Severity Index in emergency department patients with sepsis: A secondary retrospective analysis.",
+    "dergi": "Emergencias",
+    "doi": "10.55633/s3me/074.2026",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study",
+      "Observational Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Triage",
+      "Sepsis",
+      "Emergency Service, Hospital",
+      "Female",
+      "Severity of Illness Index",
+      "Male",
+      "Retrospective Studies",
+      "Middle Aged",
+      "Aged",
+      "Prospective Studies",
+      "Sensitivity and Specificity"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "",
+    "gerekce": [
+      "Multicenter Study +2",
+      "Observational Study +1",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Sepsis",
+      "Tanısal"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42874619": {
+    "pmid": "42874619",
+    "baslik": "Safety and efficacy of delpacibart zotadirsen in Duchenne muscular dystrophy mutations amenable to exon 44 skipping in the USA (EXPLORE44): a randomised, placebo-controlled, double-blind, phase 1/2 trial.",
+    "dergi": "Lancet Neurol",
+    "doi": "10.1016/S1474-4422(26)00337-6",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase II",
+      "Clinical Trial, Phase I",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Adolescent",
+      "Adult",
+      "Child",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Young Adult",
+      "Double-Blind Method",
+      "Dystrophin",
+      "Exons",
+      "Morpholinos",
+      "Muscular Dystrophy, Duchenne",
+      "Mutation",
+      "Oligonucleotides",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": 11
+  },
+  "42874605": {
+    "pmid": "42874605",
+    "baslik": "Reframing traumatic brain injury and spinal cord injury as chronic multisystem disorders: toward integrated, long-term care.",
+    "dergi": "Lancet Neurol",
+    "doi": "10.1016/S1474-4422(26)00297-8",
+    "tipler": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Spinal Cord Injuries",
+      "Brain Injuries, Traumatic",
+      "Long-Term Care",
+      "Chronic Disease"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Travma"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42874104": {
+    "pmid": "42874104",
+    "baslik": "Long-Acting HIV Therapy in African Adults with Adherence Challenges.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMoa2518753",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study",
+      "Comparative Study",
+      "Equivalence Trial"
+    ],
+    "mesh": [
+      "Adult",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Administration, Oral",
+      "Anti-HIV Agents",
+      "Delayed-Action Preparations",
+      "Diketopiperazines",
+      "Drug Therapy, Combination",
+      "HIV Infections",
+      "HIV-1",
+      "Injections, Intramuscular",
+      "Medication Adherence",
+      "Pyridones",
+      "Rilpivirine",
+      "Viral Load",
+      "Dolutegravir",
+      "Kenya",
+      "Uganda",
+      "South Africa",
+      "Treatment Outcome",
+      "Drug Administration Schedule",
+      "Young Adult"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "15",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": 11
+  },
+  "42874103": {
+    "pmid": "42874103",
+    "baslik": "Phase 2 Trial of Icotrokinra for Patients with Ulcerative Colitis.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMoa2604435",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase II",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Adult",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Young Adult",
+      "Administration, Oral",
+      "Colitis, Ulcerative",
+      "Dose-Response Relationship, Drug",
+      "Double-Blind Method",
+      "Receptors, Interleukin",
+      "Remission Induction",
+      "Peptides, Cyclic",
+      "Severity of Illness Index",
+      "Colon",
+      "Colonoscopy",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "15",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": 11
+  },
+  "42874102": {
+    "pmid": "42874102",
+    "baslik": "Ponatinib-Blinatumomab or Imatinib-Chemotherapy for Adult Ph-Positive ALL.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMoa2606208",
+    "tipler": [
+      "Clinical Trial, Phase III",
+      "Comparative Study",
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Young Adult",
+      "Antibodies, Bispecific",
+      "Antineoplastic Combined Chemotherapy Protocols",
+      "Cross-Over Studies",
+      "Imatinib Mesylate",
+      "Imidazoles",
+      "Kaplan-Meier Estimate",
+      "Neoplasm, Residual",
+      "Philadelphia Chromosome",
+      "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+      "Pyridazines",
+      "Tyrosine Kinase Inhibitors",
+      "Progression-Free Survival",
+      "Follow-Up Studies",
+      "Incidence",
+      "Neoplasm Recurrence, Local",
+      "Hematopoietic Stem Cell Transplantation"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "15",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42873496": {
+    "pmid": "42873496",
+    "baslik": "Uptake and Inequalities in Exercise-Based Cardiac Rehabilitation After Decentralization.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39054",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Denmark",
+      "Cardiac Rehabilitation",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Female",
+      "Exercise Therapy",
+      "Health Services Accessibility",
+      "Cohort Studies",
+      "Registries",
+      "Politics",
+      "Healthcare Disparities",
+      "Socioeconomic Disparities in Health",
+      "Myocardial Infarction"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42873254": {
+    "pmid": "42873254",
+    "baslik": "Management and outcomes of moderate-to-severe pelvic ring fractures: a 10-year experience from an Australian Level 1 Trauma Centre.",
+    "dergi": "Eur J Trauma Emerg Surg",
+    "doi": "10.1007/s00068-026-03360-9",
+    "tipler": [
+      "Journal Article",
+      "Observational Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Pelvic Bones",
+      "Male",
+      "Fractures, Bone",
+      "Trauma Centers",
+      "Retrospective Studies",
+      "Female",
+      "Middle Aged",
+      "Adult",
+      "Australia",
+      "Injury Severity Score",
+      "Hemorrhage",
+      "Accidents, Traffic",
+      "Fracture Fixation",
+      "Registries"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "14",
+    "gerekce": [
+      "Observational Study +1",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 8,
+    "konular": [
+      "Travma"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42872895": {
+    "pmid": "42872895",
+    "baslik": "Conservative Versus Higher Oxygen Targets Post-Cardiac Arrest: A Systematic Review, Meta-Analysis, and Trial Sequential Analysis.",
+    "dergi": "Acad Emerg Med",
+    "doi": "10.1111/acem.70422",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Heart Arrest",
+      "Oxygen Inhalation Therapy",
+      "Respiration, Artificial",
+      "Oxygen",
+      "Hypoxia",
+      "Cardiopulmonary Resuscitation"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 16,
+    "konular": [
+      "Resüsitasyon",
+      "Solunum"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42872863": {
+    "pmid": "42872863",
+    "baslik": "Prevalence of Professional Interpreter Use in Emergency Departments: A Systematic Review and Meta-Analysis.",
+    "dergi": "Acad Emerg Med",
+    "doi": "10.1111/acem.70427",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Medical Interpreting",
+      "Emergency Service, Hospital",
+      "Communication Barriers",
+      "United States",
+      "Prevalence"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6"
+    ],
+    "puan": 12,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42872757": {
+    "pmid": "42872757",
+    "baslik": "Early Discharge Strategy Including Subcutaneous Furosemide in Hospitalized Heart Failure.",
+    "dergi": "J Am Coll Cardiol",
+    "doi": "10.1016/j.jacc.2026.07.047",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Heart Failure",
+      "Female",
+      "Furosemide",
+      "Male",
+      "Patient Discharge",
+      "Aged",
+      "Diuretics",
+      "Injections, Subcutaneous",
+      "Treatment Outcome",
+      "Infusions, Subcutaneous",
+      "Middle Aged",
+      "Time Factors",
+      "Length of Stay"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "13",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 17,
+    "konular": [
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": 11
+  },
+  "42869550": {
+    "pmid": "42869550",
+    "baslik": "Reporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review.",
+    "dergi": "BMJ",
+    "doi": "10.1136/bmj-2026-100855",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Large Language Models",
+      "Humans",
+      "Clinical Trials as Topic",
+      "Research Design",
+      "Research Report"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "13",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6"
+    ],
+    "puan": 12,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42867866": {
+    "pmid": "42867866",
+    "baslik": "Digital and Coaching Interventions for Uptake of Cancer Genetic Testing: The MiGHT Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.38274",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Genetic Testing",
+      "Middle Aged",
+      "Male",
+      "Neoplasms",
+      "Mentoring",
+      "Adult",
+      "Michigan",
+      "Adherence Interventions",
+      "Aged",
+      "Patient Acceptance of Health Care"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42867864": {
+    "pmid": "42867864",
+    "baslik": "Patient Navigation Plus mHealth Incentives for Linkage to OUD Care for Adults Who Also Use Methamphetamines: A Pilot Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.38542",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Adult",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Adherence Interventions",
+      "Amphetamine-Related Disorders",
+      "Buprenorphine",
+      "Feasibility Studies",
+      "Methamphetamine",
+      "Motivation",
+      "Opiate Substitution Treatment",
+      "Opioid-Related Disorders",
+      "Patient Navigation",
+      "Pilot Projects",
+      "Telemedicine"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42867860": {
+    "pmid": "42867860",
+    "baslik": "Thrombectomy for Acute Stroke Due to Medium Vessel Occlusion Across Perfusion Mismatch Profiles: A Post Hoc Analysis of the ESCAPE-MeVO Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.38823",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Thrombectomy",
+      "Female",
+      "Male",
+      "Stroke",
+      "Aged",
+      "Treatment Outcome",
+      "Endovascular Procedures",
+      "Europe",
+      "United Kingdom"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 20,
+    "konular": [
+      "Nöroloji"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": 11
+  },
+  "42864673": {
+    "pmid": "42864673",
+    "baslik": "Prophylactic high-flow nasal oxygen vs. conventional oxygen for prevention of postoperative respiratory complications: a randomized trial.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06205-4",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Oxygen Inhalation Therapy",
+      "Postoperative Complications",
+      "Female",
+      "Aged",
+      "Male",
+      "Middle Aged",
+      "China",
+      "Oxygen",
+      "Logistic Models"
+    ],
+    "yil": "2026",
+    "ay": "Aug",
+    "gun": "20",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 15,
+    "konular": [
+      "Solunum"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42862556": {
+    "pmid": "42862556",
+    "baslik": "Immunohistochemistry vs Molecular Breast Cancer Subtyping Among African Populations.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.38664",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Breast Neoplasms",
+      "Cross-Sectional Studies",
+      "Kenya",
+      "Immunohistochemistry",
+      "Ghana",
+      "Middle Aged",
+      "Biomarkers, Tumor",
+      "Adult",
+      "Erb-b2 Receptor Tyrosine Kinases",
+      "Sensitivity and Specificity",
+      "Receptors, Estrogen",
+      "Receptors, Progesterone",
+      "West African People"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Tanısal"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42862553": {
+    "pmid": "42862553",
+    "baslik": "Percutaneous Coronary Intervention Facility Access and Clinical Outcomes Among Patients With Acute Myocardial Infarction.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.38687",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Percutaneous Coronary Intervention",
+      "Myocardial Infarction",
+      "Female",
+      "California",
+      "Health Services Accessibility",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Cohort Studies",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Kardiyoloji"
+    ],
+    "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42858376": {
+    "pmid": "42858376",
+    "baslik": "Trends in Ophthalmic Hospital Transfers and Consultations Across US Academic Centers.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.40040",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Patient Transfer",
+      "Academic Medical Centers",
+      "Referral and Consultation",
+      "Retrospective Studies",
+      "United States",
+      "Ophthalmology",
+      "Female",
+      "Male",
+      "Middle Aged",
+      "Longitudinal Studies",
+      "Emergency Service, Hospital",
+      "Aged",
+      "Eye Diseases",
+      "Adult",
+      "Emergency Room Visits"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-10-16",
+    "sayi": null
   }
 }
