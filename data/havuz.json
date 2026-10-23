@@ -711,47 +711,6 @@
     "eklendi": "2026-09-04",
     "sayi": 5
   },
-  "42685317": {
-    "pmid": "42685317",
-    "baslik": "Daraxonrasib for Previously Treated RAS-Mutant Non-Small-Cell Lung Cancer.",
-    "dergi": "N Engl J Med",
-    "doi": "10.1056/NEJMoa2504059",
-    "tipler": [
-      "Journal Article",
-      "Multicenter Study",
-      "Clinical Trial, Phase I"
-    ],
-    "mesh": [
-      "Adult",
-      "Aged",
-      "Aged, 80 and over",
-      "Female",
-      "Humans",
-      "Male",
-      "Middle Aged",
-      "Antineoplastic Agents",
-      "Carcinoma, Non-Small-Cell Lung",
-      "Dose-Response Relationship, Drug",
-      "Lung Neoplasms",
-      "Mutation",
-      "Piperazines",
-      "Proto-Oncogene Proteins p21(ras)",
-      "Drug Administration Schedule",
-      "Administration, Oral",
-      "Response Evaluation Criteria in Solid Tumors"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "03",
-    "gerekce": [
-      "Multicenter Study +2",
-      "A dergisi +6"
-    ],
-    "puan": 8,
-    "konular": [],
-    "eklendi": "2026-09-04",
-    "sayi": null
-  },
   "42685316": {
     "pmid": "42685316",
     "baslik": "Azacitidine-Venetoclax or Induction Chemotherapy for Acute Myeloid Leukemia.",
@@ -829,189 +788,6 @@
     "eklendi": "2026-09-04",
     "sayi": 9
   },
-  "42684698": {
-    "pmid": "42684698",
-    "baslik": "Intimate Partner Violence Against Women and Mortality Among Children Younger Than 5 Years: A Systematic Review and Meta-Analysis.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.31794",
-    "tipler": [
-      "Journal Article",
-      "Systematic Review",
-      "Meta-Analysis"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Intimate Partner Violence",
-      "Infant",
-      "Infant Mortality",
-      "Child, Preschool",
-      "Infant, Newborn",
-      "Child Mortality"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "Systematic Review +6",
-      "A dergisi +6"
-    ],
-    "puan": 12,
-    "konular": [],
-    "eklendi": "2026-09-04",
-    "sayi": null
-  },
-  "42681637": {
-    "pmid": "42681637",
-    "baslik": "Blunt versus penetrating trauma: differences in early physiology, coagulopathy, and outcomes in a Scandinavian trauma centre.",
-    "dergi": "Scand J Trauma Resusc Emerg Med",
-    "doi": "10.1186/s13049-026-01683-5",
-    "tipler": [
-      "Journal Article",
-      "Observational Study",
-      "Comparative Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Wounds, Penetrating",
-      "Male",
-      "Female",
-      "Wounds, Nonpenetrating",
-      "Trauma Centers",
-      "Injury Severity Score",
-      "Sweden",
-      "Adult",
-      "Registries",
-      "Blood Coagulation Disorders",
-      "Middle Aged",
-      "Prospective Studies",
-      "Blood Transfusion",
-      "Length of Stay"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "29",
-    "gerekce": [
-      "Observational Study +1",
-      "B dergisi +3",
-      "öncelikli konu +4"
-    ],
-    "puan": 8,
-    "konular": [
-      "Travma"
-    ],
-    "eklendi": "2026-09-04",
-    "sayi": null
-  },
-  "42679340": {
-    "pmid": "42679340",
-    "baslik": "Prevalence of Slowly Expanding Lesions in Patients With Multiple Sclerosis: A Systematic Review and Meta-Analysis.",
-    "dergi": "Neurology",
-    "doi": "10.1212/WNL.0000000000218474",
-    "tipler": [
-      "Journal Article",
-      "Systematic Review",
-      "Meta-Analysis"
-    ],
-    "mesh": [
-      "Humans",
-      "Multiple Sclerosis",
-      "Magnetic Resonance Imaging",
-      "Prevalence",
-      "Disease Progression"
-    ],
-    "yil": "2026",
-    "ay": "Oct",
-    "gun": "13",
-    "gerekce": [
-      "Systematic Review +6",
-      "B dergisi +3"
-    ],
-    "puan": 9,
-    "konular": [],
-    "eklendi": "2026-09-04",
-    "sayi": null
-  },
-  "42678699": {
-    "pmid": "42678699",
-    "baslik": "No-Flow Duration and Outcomes After Cardiogenic Out-of-Hospital Cardiac Arrest in Older Adults.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.31343",
-    "tipler": [
-      "Journal Article",
-      "Observational Study",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Aged",
-      "Out-of-Hospital Cardiac Arrest",
-      "Male",
-      "Japan",
-      "Aged, 80 and over",
-      "Female",
-      "Retrospective Studies",
-      "Cardiopulmonary Resuscitation",
-      "Emergency Medical Services",
-      "Registries",
-      "Time Factors",
-      "Prognosis"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "Multicenter Study +2",
-      "Observational Study +1",
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 13,
-    "konular": [
-      "Resüsitasyon"
-    ],
-    "eklendi": "2026-09-04",
-    "sayi": null
-  },
-  "42675283": {
-    "pmid": "42675283",
-    "baslik": "Closed reduction and percutaneous fixation versus open reduction and internal fixation for displaced medial malleolar fractures: a randomized controlled trial.",
-    "dergi": "Eur J Trauma Emerg Surg",
-    "doi": "10.1007/s00068-026-03329-8",
-    "tipler": [
-      "Journal Article",
-      "Randomized Controlled Trial",
-      "Comparative Study",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Ankle Fractures",
-      "Fracture Fixation, Internal",
-      "Adult",
-      "Male",
-      "Open Fracture Reduction",
-      "Middle Aged",
-      "Treatment Outcome",
-      "Postoperative Complications",
-      "Closed Fracture Reduction",
-      "Fracture Healing",
-      "Radiography"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "31",
-    "gerekce": [
-      "Randomized Controlled Trial +8",
-      "Multicenter Study +2",
-      "B dergisi +3"
-    ],
-    "puan": 13,
-    "konular": [],
-    "eklendi": "2026-09-04",
-    "sayi": null
-  },
   "42673560": {
     "pmid": "42673560",
     "baslik": "Pharmacologic Treatment for Migraine Prevention in Adults Practice Guideline Recommendations: Report of the AAN Guidelines Subcommittee and the American Headache Society.",
@@ -1040,36 +816,6 @@
     "konular": [],
     "eklendi": "2026-09-04",
     "sayi": 5
-  },
-  "42673559": {
-    "pmid": "42673559",
-    "baslik": "Systematic Review of Pharmacologic Treatment for Migraine Prevention in Adults: Report of the AAN Guidelines Subcommittee and the American Headache Society.",
-    "dergi": "Neurology",
-    "doi": "10.1212/WNL.0000000000218112",
-    "tipler": [
-      "Journal Article",
-      "Systematic Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Migraine Disorders",
-      "Adult",
-      "United States",
-      "Randomized Controlled Trials as Topic",
-      "Societies, Medical",
-      "Practice Guidelines as Topic"
-    ],
-    "yil": "2026",
-    "ay": "Oct",
-    "gun": "13",
-    "gerekce": [
-      "Systematic Review +6",
-      "B dergisi +3"
-    ],
-    "puan": 9,
-    "konular": [],
-    "eklendi": "2026-09-04",
-    "sayi": null
   },
   "42671837": {
     "pmid": "42671837",
@@ -1109,76 +855,6 @@
     "konular": [],
     "eklendi": "2026-09-04",
     "sayi": 10
-  },
-  "42671836": {
-    "pmid": "42671836",
-    "baslik": "Probiotic Implementation and Necrotizing Enterocolitis Risk in Preterm Infants.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.31601",
-    "tipler": [
-      "Journal Article",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Probiotics",
-      "Enterocolitis, Necrotizing",
-      "Infant, Newborn",
-      "Infant, Premature",
-      "Female",
-      "Retrospective Studies",
-      "Male",
-      "Netherlands",
-      "Intensive Care Units, Neonatal",
-      "Incidence",
-      "Gestational Age"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "03",
-    "gerekce": [
-      "Multicenter Study +2",
-      "A dergisi +6"
-    ],
-    "puan": 8,
-    "konular": [],
-    "eklendi": "2026-09-04",
-    "sayi": null
-  },
-  "42671473": {
-    "pmid": "42671473",
-    "baslik": "Thoracoscopic internal fixation, open surgical internal fixation, and conservative treatment of rib fractures: differences in postoperative rehabilitation and chest volume (a randomized controlled trial).",
-    "dergi": "Eur J Trauma Emerg Surg",
-    "doi": "10.1007/s00068-026-03320-3",
-    "tipler": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Rib Fractures",
-      "Fracture Fixation, Internal",
-      "Female",
-      "Conservative Treatment",
-      "Male",
-      "Middle Aged",
-      "Thoracoscopy",
-      "Adult",
-      "Tomography, X-Ray Computed",
-      "Fractures, Multiple",
-      "Quality of Life"
-    ],
-    "yil": "2026",
-    "ay": "Aug",
-    "gun": "31",
-    "gerekce": [
-      "Randomized Controlled Trial +8",
-      "B dergisi +3"
-    ],
-    "puan": 11,
-    "konular": [],
-    "eklendi": "2026-09-04",
-    "sayi": null
   },
   "42721980": {
     "pmid": "42721980",
@@ -4460,7 +4136,7 @@
     "puan": 16,
     "konular": [],
     "eklendi": "2026-10-16",
-    "sayi": null
+    "sayi": 12
   },
   "42873496": {
     "pmid": "42873496",
@@ -4939,6 +4615,702 @@
     "puan": 8,
     "konular": [],
     "eklendi": "2026-10-16",
+    "sayi": null
+  },
+  "42907095": {
+    "pmid": "42907095",
+    "baslik": "Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).",
+    "dergi": "BMJ",
+    "doi": "10.1136/bmj-2026-100872",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Barrett Esophagus",
+      "Acetic Acid",
+      "Esophageal Neoplasms",
+      "Female",
+      "Male",
+      "Adenocarcinoma",
+      "Esophagoscopy",
+      "Prospective Studies",
+      "Middle Aged",
+      "Aged",
+      "Biopsy",
+      "Precancerous Conditions"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "21",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-10-23",
+    "sayi": 12
+  },
+  "42906088": {
+    "pmid": "42906088",
+    "baslik": "Helicobacter pylori Infection - Advances, Challenges, and the Road Ahead.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMra2414530",
+    "tipler": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Helicobacter Infections",
+      "Humans",
+      "Helicobacter pylori",
+      "Stomach Neoplasms",
+      "Anti-Bacterial Agents",
+      "Drug Resistance, Bacterial",
+      "Gastritis",
+      "Bacterial Vaccines"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "22",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42906087": {
+    "pmid": "42906087",
+    "baslik": "Ianalumab for the Treatment of Patients with Sjögren's Disease.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMoa2601088",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Clinical Trial, Phase III"
+    ],
+    "mesh": [
+      "Humans",
+      "Sjogren's Syndrome",
+      "Female",
+      "Antibodies, Monoclonal",
+      "Double-Blind Method",
+      "Middle Aged",
+      "Male",
+      "Aged",
+      "Injections, Subcutaneous",
+      "Adult",
+      "Severity of Illness Index"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "22",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-10-23",
+    "sayi": 12
+  },
+  "42905708": {
+    "pmid": "42905708",
+    "baslik": "Telemedicine Consultation for Pediatric Trauma in Community ED Visits and Parent Experience of Care: A Stepped-Wedge Cluster-Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.36546",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Child",
+      "Female",
+      "Parents",
+      "Male",
+      "Telemedicine",
+      "Emergency Room Visits",
+      "Child, Preschool",
+      "Wounds and Injuries",
+      "Emergency Service, Hospital",
+      "California",
+      "Referral and Consultation",
+      "Infant",
+      "Adolescent",
+      "Cluster Analysis"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 18,
+    "konular": [
+      "Travma"
+    ],
+    "eklendi": "2026-10-23",
+    "sayi": 12
+  },
+  "42905707": {
+    "pmid": "42905707",
+    "baslik": "Fecal Immunochemical Test Outreach for Colorectal Cancer Screening in Community Health Centers: A Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39013",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Colorectal Neoplasms",
+      "Female",
+      "Middle Aged",
+      "Early Detection of Cancer",
+      "Community Health Centers",
+      "California",
+      "Occult Blood",
+      "Male",
+      "Aged",
+      "Mass Screening",
+      "Postal Service"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42905705": {
+    "pmid": "42905705",
+    "baslik": "Initial Enfortumab Vedotin Dose Reduction and Outcomes in Pretreated Advanced Urothelial Carcinoma.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39846",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Retrospective Studies",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Antibodies, Monoclonal",
+      "Treatment Outcome",
+      "Republic of Korea",
+      "Progression-Free Survival",
+      "Carcinoma, Transitional Cell",
+      "Dose-Response Relationship, Drug",
+      "Urologic Neoplasms",
+      "Drug Tapering"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42905143": {
+    "pmid": "42905143",
+    "baslik": "Guideline adherence in helicopter versus ground emergency medical services: an indication-based analysis of 129,783 patients from the TraumaRegister DGU®.",
+    "dergi": "Eur J Trauma Emerg Surg",
+    "doi": "10.1007/s00068-026-03367-2",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Retrospective Studies",
+      "Air Ambulances",
+      "Female",
+      "Registries",
+      "Germany",
+      "Guideline Adherence",
+      "Emergency Medical Services",
+      "Male",
+      "Adult",
+      "Middle Aged",
+      "Trauma Centers",
+      "Injury Severity Score",
+      "Aged",
+      "Wounds and Injuries",
+      "Multiple Trauma"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "21",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Travma"
+    ],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42902959": {
+    "pmid": "42902959",
+    "baslik": "Prognostic Value of Thromboelastography Parameters for Early Trauma-Induced Coagulopathy in Severely Injured Patients: A Retrospective Cohort Study.",
+    "dergi": "Acad Emerg Med",
+    "doi": "10.1111/acem.70423",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Thrombelastography",
+      "Retrospective Studies",
+      "Blood Coagulation Disorders",
+      "Wounds and Injuries",
+      "Female",
+      "Prognosis",
+      "Male",
+      "Adult",
+      "Injury Severity Score",
+      "Middle Aged",
+      "Blood Transfusion",
+      "Trauma Centers"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Travma"
+    ],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42902295": {
+    "pmid": "42902295",
+    "baslik": "Toward targeted assessment of inspiratory muscle weakness before extubation: a pooled individual patient data analysis from multiple observational cohorts in critically ill ventilated patients.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06305-1",
+    "tipler": [
+      "Journal Article",
+      "Observational Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Airway Extubation",
+      "Female",
+      "Critical Illness",
+      "Male",
+      "Muscle Weakness",
+      "Middle Aged",
+      "Aged",
+      "Respiration, Artificial",
+      "Cohort Studies",
+      "Ventilator Weaning",
+      "Respiratory Muscles",
+      "Intensive Care Units",
+      "Data Analysis"
+    ],
+    "yil": "2026",
+    "ay": "Sep",
+    "gun": "15",
+    "gerekce": [
+      "Observational Study +1",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 8,
+    "konular": [
+      "Solunum"
+    ],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42900873": {
+    "pmid": "42900873",
+    "baslik": "Recanalization After Acute Cervical Artery Dissection: A Multicenter International Study.",
+    "dergi": "Neurology",
+    "doi": "10.1212/WNL.0000000000218566",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study",
+      "Observational Study"
+    ],
+    "mesh": [
+      "Adult",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Carotid Artery, Internal, Dissection",
+      "Ischemic Stroke",
+      "Recurrence",
+      "Retrospective Studies",
+      "Treatment Outcome",
+      "Vertebral Artery Dissection"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "10",
+    "gerekce": [
+      "Multicenter Study +2",
+      "Observational Study +1",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Nöroloji"
+    ],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42900476": {
+    "pmid": "42900476",
+    "baslik": "Clinical Evidence on Psilocybin and Its Representation in Media Reporting: A Systematic Review.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.38843",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Psilocybin",
+      "Mass Media",
+      "Hallucinogens",
+      "Media Exposure"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6"
+    ],
+    "puan": 12,
+    "konular": [],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42900472": {
+    "pmid": "42900472",
+    "baslik": "Storage and Disposal of Unused Prescription Opioids for Acute Pain After Emergency Department Discharge.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39607",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Analgesics, Opioid",
+      "Emergency Service, Hospital",
+      "Acute Pain",
+      "Patient Discharge",
+      "Male",
+      "Female",
+      "Middle Aged",
+      "Ontario",
+      "Prospective Studies",
+      "Quebec",
+      "Adult",
+      "Emergency Room Visits",
+      "Drug Storage"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 8,
+    "konular": [],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42895748": {
+    "pmid": "42895748",
+    "baslik": "A Conversation Tool to Enhance Care for People With Type 2 Diabetes: The QBSafe Cluster Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39032",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Diabetes Mellitus, Type 2",
+      "Female",
+      "Middle Aged",
+      "Male",
+      "Aged",
+      "Primary Health Care",
+      "Glycated Hemoglobin",
+      "Adherence Interventions",
+      "Adult",
+      "Connecticut"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42895747": {
+    "pmid": "42895747",
+    "baslik": "Concentrated Exposure Therapy vs Internet-Based Cognitive Behavioral Therapy for Obsessive-Compulsive Disorder: A Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39281",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Cognitive Behavioral Therapy",
+      "Obsessive-Compulsive Disorder",
+      "Adult",
+      "Middle Aged",
+      "Male",
+      "Implosive Therapy",
+      "Treatment Outcome",
+      "Young Adult",
+      "Adolescent",
+      "Aged",
+      "Internet",
+      "Internet-Based Intervention",
+      "Severity of Illness Index"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42895746": {
+    "pmid": "42895746",
+    "baslik": "Home Transcranial Direct Current Stimulation With Gamified Cognitive Control Training for Depression: A Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39400",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Transcranial Direct Current Stimulation",
+      "Adult",
+      "Double-Blind Method",
+      "Major Depressive Disorder",
+      "Male",
+      "Middle Aged",
+      "Cognitive Training",
+      "Treatment Outcome",
+      "Feasibility Studies",
+      "Young Adult",
+      "Aged"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-10-23",
+    "sayi": 12
+  },
+  "42895745": {
+    "pmid": "42895745",
+    "baslik": "Initial Treatment for Acute Low Back Pain and Risk of Opioid Use Disorder and Overdose.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39420",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Retrospective Studies",
+      "Opioid-Related Disorders",
+      "United States",
+      "Low Back Pain",
+      "Adult",
+      "Male",
+      "Analgesics, Opioid",
+      "Middle Aged",
+      "Medicaid",
+      "Drug Overdose",
+      "Incidence"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Toksikoloji"
+    ],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42895744": {
+    "pmid": "42895744",
+    "baslik": "Timeliness of Emergency Care for Intracerebral Hemorrhage Compared With Acute Ischemic Stroke.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39429",
+    "tipler": [
+      "Journal Article",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Aged",
+      "Cerebral Hemorrhage",
+      "Ischemic Stroke",
+      "Male",
+      "Emergency Medical Services",
+      "Aged, 80 and over",
+      "Middle Aged",
+      "Time-to-Treatment",
+      "Emergency Service, Hospital",
+      "Treatment Delay",
+      "Cohort Studies",
+      "Time Factors",
+      "United States"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Nöroloji"
+    ],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42895743": {
+    "pmid": "42895743",
+    "baslik": "Mortality Among People With Attention-Deficit/Hyperactivity Disorder: A Systematic Review and Meta-Analysis.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39448",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Attention Deficit Disorder with Hyperactivity",
+      "Humans",
+      "Female",
+      "Cause of Death",
+      "Male",
+      "Adult",
+      "Child"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6"
+    ],
+    "puan": 12,
+    "konular": [],
+    "eklendi": "2026-10-23",
+    "sayi": null
+  },
+  "42886484": {
+    "pmid": "42886484",
+    "baslik": "Clinical Decision Support for Fall Prevention in Primary Care: The eSTEPS Cluster Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.39240",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Accidental Falls",
+      "Female",
+      "Primary Health Care",
+      "Decision Support Systems, Clinical",
+      "Aged",
+      "Male",
+      "Electronic Health Records",
+      "Aged, 80 and over",
+      "Exercise Therapy"
+    ],
+    "yil": "2026",
+    "ay": "Oct",
+    "gun": "01",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-10-23",
     "sayi": null
   }
 }

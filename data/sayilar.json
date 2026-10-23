@@ -1894,5 +1894,216 @@
         "sayi": 11
       }
     ]
+  },
+  {
+    "no": 12,
+    "tarih": "2026-10-23",
+    "kayitlar": [
+      {
+        "pmid": "42905708",
+        "baslik": "Telemedicine Consultation for Pediatric Trauma in Community ED Visits and Parent Experience of Care: A Stepped-Wedge Cluster-Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.36546",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Child",
+          "Female",
+          "Parents",
+          "Male",
+          "Telemedicine",
+          "Emergency Room Visits",
+          "Child, Preschool",
+          "Wounds and Injuries",
+          "Emergency Service, Hospital",
+          "California",
+          "Referral and Consultation",
+          "Infant",
+          "Adolescent",
+          "Cluster Analysis"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 18,
+        "konular": [
+          "Travma"
+        ],
+        "eklendi": "2026-10-23",
+        "sayi": 12
+      },
+      {
+        "pmid": "42874102",
+        "baslik": "Ponatinib-Blinatumomab or Imatinib-Chemotherapy for Adult Ph-Positive ALL.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2606208",
+        "tipler": [
+          "Clinical Trial, Phase III",
+          "Comparative Study",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Adult",
+          "Aged",
+          "Aged, 80 and over",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Young Adult",
+          "Antibodies, Bispecific",
+          "Antineoplastic Combined Chemotherapy Protocols",
+          "Cross-Over Studies",
+          "Imatinib Mesylate",
+          "Imidazoles",
+          "Kaplan-Meier Estimate",
+          "Neoplasm, Residual",
+          "Philadelphia Chromosome",
+          "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+          "Pyridazines",
+          "Tyrosine Kinase Inhibitors",
+          "Progression-Free Survival",
+          "Follow-Up Studies",
+          "Incidence",
+          "Neoplasm Recurrence, Local",
+          "Hematopoietic Stem Cell Transplantation"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "15",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-10-16",
+        "sayi": 12
+      },
+      {
+        "pmid": "42907095",
+        "baslik": "Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).",
+        "dergi": "BMJ",
+        "doi": "10.1136/bmj-2026-100872",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Barrett Esophagus",
+          "Acetic Acid",
+          "Esophageal Neoplasms",
+          "Female",
+          "Male",
+          "Adenocarcinoma",
+          "Esophagoscopy",
+          "Prospective Studies",
+          "Middle Aged",
+          "Aged",
+          "Biopsy",
+          "Precancerous Conditions"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "21",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-10-23",
+        "sayi": 12
+      },
+      {
+        "pmid": "42906087",
+        "baslik": "Ianalumab for the Treatment of Patients with Sjögren's Disease.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2601088",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Clinical Trial, Phase III"
+        ],
+        "mesh": [
+          "Humans",
+          "Sjogren's Syndrome",
+          "Female",
+          "Antibodies, Monoclonal",
+          "Double-Blind Method",
+          "Middle Aged",
+          "Male",
+          "Aged",
+          "Injections, Subcutaneous",
+          "Adult",
+          "Severity of Illness Index"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "22",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-10-23",
+        "sayi": 12
+      },
+      {
+        "pmid": "42895746",
+        "baslik": "Home Transcranial Direct Current Stimulation With Gamified Cognitive Control Training for Depression: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.39400",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Transcranial Direct Current Stimulation",
+          "Adult",
+          "Double-Blind Method",
+          "Major Depressive Disorder",
+          "Male",
+          "Middle Aged",
+          "Cognitive Training",
+          "Treatment Outcome",
+          "Feasibility Studies",
+          "Young Adult",
+          "Aged"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-10-23",
+        "sayi": 12
+      }
+    ]
   }
 ]
