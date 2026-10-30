@@ -2105,5 +2105,202 @@
         "sayi": 12
       }
     ]
+  },
+  {
+    "no": 13,
+    "tarih": "2026-10-30",
+    "kayitlar": [
+      {
+        "pmid": "42956771",
+        "baslik": "Prone positioning and high-frequency oscillatory ventilation in early paediatric acute respiratory distress syndrome (PROSpect): an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial.",
+        "dergi": "Lancet",
+        "doi": "10.1016/S0140-6736(26)01949-5",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Clinical Trial, Phase III",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Prone Position",
+          "High-Frequency Ventilation",
+          "Female",
+          "Male",
+          "Child, Preschool",
+          "Infant",
+          "Child",
+          "Adolescent",
+          "Intensive Care Units, Pediatric",
+          "Supine Position",
+          "Respiration, Artificial",
+          "Respiratory Distress Syndrome",
+          "Infant, Newborn",
+          "Patient Positioning"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "31",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 20,
+        "konular": [
+          "Solunum"
+        ],
+        "eklendi": "2026-10-30",
+        "sayi": 13
+      },
+      {
+        "pmid": "42946338",
+        "baslik": "Comparative effectiveness of three splints for rehabilitation after finger flexor tendon repair (FIRST): randomised controlled trial.",
+        "dergi": "BMJ",
+        "doi": "10.1136/bmj-2026-100953",
+        "tipler": [
+          "Journal Article",
+          "Comparative Study",
+          "Multicenter Study",
+          "Equivalence Trial",
+          "Pragmatic Clinical Trial",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Splints",
+          "Female",
+          "Adult",
+          "Tendon Injuries",
+          "Male",
+          "Finger Injuries",
+          "Middle Aged",
+          "Prospective Studies",
+          "Treatment Outcome",
+          "Young Adult",
+          "Range of Motion, Articular",
+          "Aged"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "27",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-10-30",
+        "sayi": 13
+      },
+      {
+        "pmid": "42872895",
+        "baslik": "Conservative Versus Higher Oxygen Targets Post-Cardiac Arrest: A Systematic Review, Meta-Analysis, and Trial Sequential Analysis.",
+        "dergi": "Acad Emerg Med",
+        "doi": "10.1111/acem.70422",
+        "tipler": [
+          "Journal Article",
+          "Systematic Review",
+          "Meta-Analysis",
+          "Review"
+        ],
+        "mesh": [
+          "Humans",
+          "Heart Arrest",
+          "Oxygen Inhalation Therapy",
+          "Respiration, Artificial",
+          "Oxygen",
+          "Hypoxia",
+          "Cardiopulmonary Resuscitation"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "",
+        "gerekce": [
+          "Systematic Review +6",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 16,
+        "konular": [
+          "Resüsitasyon",
+          "Solunum"
+        ],
+        "eklendi": "2026-10-16",
+        "sayi": 13
+      },
+      {
+        "pmid": "42954991",
+        "baslik": "Data Extraction Errors and Diagnostic Conclusions of Meta-Analyses: A Systematic Review.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.40850",
+        "tipler": [
+          "Journal Article",
+          "Systematic Review"
+        ],
+        "mesh": [
+          "Meta-Analysis as Topic",
+          "Humans",
+          "Reproducibility of Results",
+          "Systematic Reviews as Topic",
+          "Sensitivity and Specificity"
+        ],
+        "yil": "2026",
+        "ay": "Oct",
+        "gun": "01",
+        "gerekce": [
+          "Systematic Review +6",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 16,
+        "konular": [
+          "Tanısal"
+        ],
+        "eklendi": "2026-10-30",
+        "sayi": 13
+      },
+      {
+        "pmid": "42783367",
+        "baslik": "Dorsolateral Prefrontal rTMS Symptom Cluster Response Trajectories for Depression.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.36032",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Male",
+          "Adult",
+          "Middle Aged",
+          "Transcranial Magnetic Stimulation",
+          "Major Depressive Disorder",
+          "Dorsolateral Prefrontal Cortex",
+          "Treatment Outcome",
+          "Canada",
+          "Treatment Effect Heterogeneity",
+          "Cohort Studies",
+          "Adolescent",
+          "Young Adult",
+          "Aged",
+          "Prefrontal Cortex"
+        ],
+        "yil": "2026",
+        "ay": "Sep",
+        "gun": "01",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6"
+        ],
+        "puan": 14,
+        "konular": [],
+        "eklendi": "2026-09-25",
+        "sayi": 13
+      }
+    ]
   }
 ]
