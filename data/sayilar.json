@@ -2302,5 +2302,210 @@
         "sayi": 13
       }
     ]
+  },
+  {
+    "no": 14,
+    "tarih": "2026-11-06",
+    "kayitlar": [
+      {
+        "pmid": "42982504",
+        "baslik": "Perioperative respiratory adverse events in children undergoing adenotonsillectomy with laryngeal mask airway versus endotracheal tube ventilation: multicentre, randomised controlled trial.",
+        "dergi": "BMJ",
+        "doi": "10.1136/bmj-2026-101019",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Comparative Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Adenoidectomy",
+          "Laryngeal Masks",
+          "Tonsillectomy",
+          "Child, Preschool",
+          "Female",
+          "Male",
+          "Intubation, Intratracheal",
+          "Postoperative Complications",
+          "Child",
+          "Laryngismus",
+          "China",
+          "Anesthesia, General",
+          "Pediatric Anesthesia"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "04",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 20,
+        "konular": [
+          "Havayolu"
+        ],
+        "eklendi": "2026-11-06",
+        "sayi": 14
+      },
+      {
+        "pmid": "42988384",
+        "baslik": "Thoracic epidural versus paravertebral blockade for reducing chronic post-thoracotomy pain (TOPIC-2): open label, parallel group, superiority, multicentre, randomised controlled trial.",
+        "dergi": "BMJ",
+        "doi": "10.1136/bmj-2026-101114",
+        "tipler": [
+          "Journal Article",
+          "Multicenter Study",
+          "Equivalence Trial",
+          "Randomized Controlled Trial",
+          "Comparative Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Thoracotomy",
+          "Male",
+          "Postoperative Pain",
+          "Female",
+          "Aged",
+          "Nerve Block",
+          "Middle Aged",
+          "Chronic Pain",
+          "Pain Measurement",
+          "Anesthetics, Local"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "05",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-11-06",
+        "sayi": 14
+      },
+      {
+        "pmid": "42981569",
+        "baslik": "Plozasiran for Severe Hypertriglyceridemia and Risk of Pancreatitis.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2610014",
+        "tipler": [
+          "Clinical Trial, Phase III",
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Adult",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Apolipoprotein C-III",
+          "Cholesterol",
+          "Double-Blind Method",
+          "Hypertriglyceridemia",
+          "Pancreatitis",
+          "RNA, Small Interfering",
+          "Triglycerides",
+          "Severity of Illness Index",
+          "Aged",
+          "Treatment Outcome",
+          "Follow-Up Studies",
+          "Incidence"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "05",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-11-06",
+        "sayi": 14
+      },
+      {
+        "pmid": "42981096",
+        "baslik": "RELAX Perinatal Digital Intervention to Prevent Increasing Anxiety: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.40518",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Equivalence Trial",
+          "Clinical Trial, Phase II"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Pregnancy",
+          "Adult",
+          "Anxiety",
+          "Pregnancy Complications",
+          "Anxiety Disorders",
+          "United Kingdom",
+          "Cognitive Behavioral Therapy",
+          "Relaxation Therapy"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "02",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-11-06",
+        "sayi": 14
+      },
+      {
+        "pmid": "42975901",
+        "baslik": "Early Metformin Initiation and Glycemic Outcomes in Gestational Diabetes: A Secondary Analysis of a Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.35700",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Metformin",
+          "Diabetes, Gestational",
+          "Pregnancy",
+          "Hypoglycemic Agents",
+          "Adult",
+          "Double-Blind Method",
+          "Blood Glucose",
+          "Insulin",
+          "Ireland",
+          "Treatment Outcome",
+          "Hyperglycemia"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "02",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-11-06",
+        "sayi": 14
+      }
+    ]
   }
 ]
