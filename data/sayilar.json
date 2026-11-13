@@ -2507,5 +2507,222 @@
         "sayi": 14
       }
     ]
+  },
+  {
+    "no": 15,
+    "tarih": "2026-11-13",
+    "kayitlar": [
+      {
+        "pmid": "43018973",
+        "baslik": "Procalcitonin- and Presepsin-Guided Antibiotics for Early-Onset Sepsis in Preterm Infants: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.43418",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Equivalence Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Procalcitonin",
+          "Infant, Newborn",
+          "Anti-Bacterial Agents",
+          "Female",
+          "Male",
+          "Infant, Premature",
+          "Peptide Fragments",
+          "Lipopolysaccharide Receptors",
+          "Biomarkers",
+          "Sepsis",
+          "Neonatal Sepsis",
+          "Italy",
+          "Intensive Care Units, Neonatal"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "02",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 20,
+        "konular": [
+          "Sepsis"
+        ],
+        "eklendi": "2026-11-13",
+        "sayi": 15
+      },
+      {
+        "pmid": "43013818",
+        "baslik": "Prevention of Venous Thromboembolism after Total Hip or Knee Replacement.",
+        "dergi": "N Engl J Med",
+        "doi": "10.1056/NEJMoa2602435",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Comparative Study",
+          "Equivalence Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Aged",
+          "Female",
+          "Humans",
+          "Male",
+          "Middle Aged",
+          "Anticoagulants",
+          "Arthroplasty, Replacement, Hip",
+          "Arthroplasty, Replacement, Knee",
+          "Aspirin",
+          "Cause of Death",
+          "Follow-Up Studies",
+          "Hemorrhage",
+          "Myocardial Infarction",
+          "Platelet Aggregation Inhibitors",
+          "Postoperative Complications",
+          "Reoperation",
+          "Rivaroxaban",
+          "Venous Thromboembolism",
+          "Warfarin",
+          "Treatment Outcome"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "12",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 20,
+        "konular": [
+          "Travma",
+          "Kardiyoloji"
+        ],
+        "eklendi": "2026-11-13",
+        "sayi": 15
+      },
+      {
+        "pmid": "43013310",
+        "baslik": "Civil Society Organization-Led Home Visit Intervention to Reduce Unintentional Child Injury in Rural China: A Cluster Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.43140",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "China",
+          "Female",
+          "Child, Preschool",
+          "Male",
+          "Child",
+          "Rural Population",
+          "House Calls",
+          "Wounds and Injuries",
+          "Caregivers",
+          "Cluster Analysis",
+          "Accidental Injuries",
+          "Adult"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "02",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "A dergisi +6",
+          "öncelikli konu +4"
+        ],
+        "puan": 18,
+        "konular": [
+          "Travma"
+        ],
+        "eklendi": "2026-11-13",
+        "sayi": 15
+      },
+      {
+        "pmid": "43020520",
+        "baslik": "Effect of intensive blood pressure control on cognitive outcomes and brain structures in adults with type 2 diabetes: prespecified analysis of secondary outcomes of BPROAD randomised controlled trial.",
+        "dergi": "BMJ",
+        "doi": "10.1136/bmj-2026-101209",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Diabetes Mellitus, Type 2",
+          "Female",
+          "Middle Aged",
+          "Antihypertensive Agents",
+          "Magnetic Resonance Imaging",
+          "Hypertension",
+          "Male",
+          "Brain",
+          "Aged",
+          "Blood Pressure",
+          "Cognition",
+          "Cognitive Dysfunction",
+          "Dementia",
+          "China"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "12",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-11-13",
+        "sayi": 15
+      },
+      {
+        "pmid": "43020097",
+        "baslik": "Empirical tuberculosis treatment in infants living with HIV hospitalised with severe pneumonia in Africa (EMPIRICAL): a multicentre, randomised, open-label, 2 × 2 factorial, controlled superiority trial.",
+        "dergi": "Lancet",
+        "doi": "10.1016/S0140-6736(26)01418-2",
+        "tipler": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Equivalence Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Infant",
+          "Antitubercular Agents",
+          "Female",
+          "Male",
+          "HIV Infections",
+          "Pneumonia",
+          "Tuberculosis",
+          "Africa",
+          "Hospitalization",
+          "Ethambutol",
+          "Isoniazid"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "14",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-11-13",
+        "sayi": 15
+      }
+    ]
   }
 ]
