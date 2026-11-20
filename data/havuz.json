@@ -1444,195 +1444,6 @@
     "eklendi": "2026-09-25",
     "sayi": 8
   },
-  "42823746": {
-    "pmid": "42823746",
-    "baslik": "A specialist-led interprofessional weaning program to prevent weaning failure in high-risk patients: the PRiVENT study.",
-    "dergi": "Crit Care",
-    "doi": "10.1186/s13054-026-06357-3",
-    "tipler": [
-      "Journal Article",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Ventilator Weaning",
-      "Female",
-      "Prospective Studies",
-      "Male",
-      "Aged",
-      "Middle Aged",
-      "Intensive Care Units",
-      "Respiration, Artificial",
-      "Specialization"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "30",
-    "gerekce": [
-      "Multicenter Study +2",
-      "B dergisi +3",
-      "öncelikli konu +4"
-    ],
-    "puan": 9,
-    "konular": [
-      "Solunum"
-    ],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42823695": {
-    "pmid": "42823695",
-    "baslik": "Evaluating plasma ferritin and suPAR as treatable traits for critically ill patients with COVID-19 treated with anakinra: an exploratory analysis of the immune modulation domain of the REMAP-CAP randomised clinical trial.",
-    "dergi": "Crit Care",
-    "doi": "10.1186/s13054-026-06311-3",
-    "tipler": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Ferritins",
-      "Interleukin 1 Receptor Antagonist Protein",
-      "Receptors, Urokinase Plasminogen Activator",
-      "COVID-19",
-      "Critical Illness",
-      "Female",
-      "Middle Aged",
-      "Male",
-      "Aged",
-      "COVID-19 Drug Treatment",
-      "Pneumonia, Viral",
-      "Coronavirus Infections",
-      "Biomarkers",
-      "SARS-CoV-2"
-    ],
-    "yil": "2026",
-    "ay": "Oct",
-    "gun": "01",
-    "gerekce": [
-      "Randomized Controlled Trial +8",
-      "B dergisi +3"
-    ],
-    "puan": 11,
-    "konular": [],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42821262": {
-    "pmid": "42821262",
-    "baslik": "Umbilical Cord Quantitative Polymerase Chain Reaction and Sepsis Complications for Neonates.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.37159",
-    "tipler": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Infant, Newborn",
-      "Female",
-      "Male",
-      "Infant, Premature",
-      "Sepsis",
-      "Neonatal Sepsis",
-      "DNA, Bacterial",
-      "Umbilical Cord",
-      "Polymerase Chain Reaction",
-      "Streptococcus agalactiae",
-      "Intensive Care Units, Neonatal",
-      "Fetal Blood"
-    ],
-    "yil": "2026",
-    "ay": "Oct",
-    "gun": "01",
-    "gerekce": [
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 10,
-    "konular": [
-      "Sepsis"
-    ],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42815981": {
-    "pmid": "42815981",
-    "baslik": "Early national comparison of robotic versus conventional knee replacements for arthritis using National Joint Registry data: target trial emulation study.",
-    "dergi": "BMJ",
-    "doi": "10.1136/bmj-2026-100691",
-    "tipler": [
-      "Journal Article",
-      "Comparative Study",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Arthroplasty, Replacement, Knee",
-      "Registries",
-      "Reoperation",
-      "Robotic Surgical Procedures",
-      "United Kingdom",
-      "Aged",
-      "Male",
-      "Female",
-      "Osteoarthritis, Knee",
-      "Prosthesis Failure",
-      "Middle Aged",
-      "Treatment Outcome",
-      "Knee Prosthesis"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "30",
-    "gerekce": [
-      "Multicenter Study +2",
-      "A dergisi +6"
-    ],
-    "puan": 8,
-    "konular": [],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42815970": {
-    "pmid": "42815970",
-    "baslik": "Early national comparison of robotic versus conventional hip replacements for arthritis using National Joint Registry data: target trial emulation study.",
-    "dergi": "BMJ",
-    "doi": "10.1136/bmj-2026-100709",
-    "tipler": [
-      "Journal Article",
-      "Comparative Study",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Arthroplasty, Replacement, Hip",
-      "Registries",
-      "Reoperation",
-      "Robotic Surgical Procedures",
-      "Aged",
-      "United Kingdom",
-      "Female",
-      "Male",
-      "Prosthesis Failure",
-      "Osteoarthritis, Hip",
-      "Middle Aged",
-      "Hip Prosthesis",
-      "Kaplan-Meier Estimate",
-      "Treatment Outcome",
-      "Postoperative Complications"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "30",
-    "gerekce": [
-      "Multicenter Study +2",
-      "A dergisi +6"
-    ],
-    "puan": 8,
-    "konular": [],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
   "42814929": {
     "pmid": "42814929",
     "baslik": "Giredestrant plus Everolimus in Advanced Breast Cancer.",
@@ -1683,79 +1494,6 @@
     "eklendi": "2026-10-02",
     "sayi": 9
   },
-  "42814464": {
-    "pmid": "42814464",
-    "baslik": "Skills Training in Affective Recovery Video and Text Programs for Recent Sexual Assault Survivors: A Pilot Randomized Clinical Trial.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.36353",
-    "tipler": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Pilot Projects",
-      "Stress Disorders, Post-Traumatic",
-      "Text Messaging",
-      "Adult",
-      "Survivors",
-      "Sex Offenses",
-      "Substance-Related Disorders",
-      "Young Adult"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "Randomized Controlled Trial +8",
-      "A dergisi +6"
-    ],
-    "puan": 14,
-    "konular": [],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42814461": {
-    "pmid": "42814461",
-    "baslik": "Breastfeeding and Neurodevelopmental Outcomes in Children of Women Taking Antiseizure Medications.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.37040",
-    "tipler": [
-      "Journal Article",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Humans",
-      "Female",
-      "Breast Feeding",
-      "Anticonvulsants",
-      "Epilepsy",
-      "Child",
-      "Prospective Studies",
-      "Pregnancy",
-      "Adult",
-      "Male",
-      "Infant",
-      "Child Development",
-      "Neurodevelopment",
-      "Young Adult",
-      "Child, Preschool",
-      "Lamotrigine",
-      "Milk, Human"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "Multicenter Study +2",
-      "A dergisi +6"
-    ],
-    "puan": 8,
-    "konular": [],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
   "42813718": {
     "pmid": "42813718",
     "baslik": "2026 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
@@ -1787,244 +1525,6 @@
     "eklendi": "2026-10-02",
     "sayi": 9
   },
-  "42809288": {
-    "pmid": "42809288",
-    "baslik": "Gepotidacin and Early Symptom Improvement in Uncomplicated Urinary Tract Infection: A Nonrandomized Clinical Trial.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.34116",
-    "tipler": [
-      "Journal Article",
-      "Multicenter Study",
-      "Clinical Trial, Phase III"
-    ],
-    "mesh": [
-      "Adolescent",
-      "Adult",
-      "Aged",
-      "Female",
-      "Humans",
-      "Middle Aged",
-      "Anti-Bacterial Agents",
-      "Heterocyclic Compounds, 3-Ring",
-      "Quality of Life",
-      "Treatment Outcome",
-      "Urinary Tract Infections",
-      "Acenaphthenes"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "Multicenter Study +2",
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 12,
-    "konular": [
-      "Sepsis"
-    ],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42809286": {
-    "pmid": "42809286",
-    "baslik": "End-of-Life Antibiotic Use After the Life-Sustaining Treatment Decisions Act in Korea.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.36508",
-    "tipler": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Male",
-      "Republic of Korea",
-      "Anti-Bacterial Agents",
-      "Female",
-      "Aged",
-      "Neoplasms",
-      "Terminal Care",
-      "Middle Aged",
-      "Cohort Studies",
-      "Aged, 80 and over"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 10,
-    "konular": [
-      "Sepsis"
-    ],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42809283": {
-    "pmid": "42809283",
-    "baslik": "Urine Methylation Test for Urothelial Cancer Diagnosis and Surveillance.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.36786",
-    "tipler": [
-      "Journal Article",
-      "Multicenter Study"
-    ],
-    "mesh": [
-      "Aged",
-      "Female",
-      "Humans",
-      "Male",
-      "Middle Aged",
-      "Biomarkers, Tumor",
-      "China",
-      "DNA Methylation",
-      "Prospective Studies",
-      "Sensitivity and Specificity",
-      "Urinary Bladder Neoplasms",
-      "Urologic Neoplasms",
-      "Vimentin"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "Multicenter Study +2",
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 12,
-    "konular": [
-      "Tanısal"
-    ],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42809282": {
-    "pmid": "42809282",
-    "baslik": "Geospatial Optimization of Trauma Care Resource Allocation and Timely Access for Severely Injured Patients.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.36840",
-    "tipler": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Cross-Sectional Studies",
-      "Humans",
-      "Health Services Accessibility",
-      "Wounds and Injuries",
-      "Resource Allocation",
-      "Republic of Korea",
-      "Trauma Centers"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 10,
-    "konular": [
-      "Travma"
-    ],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42809110": {
-    "pmid": "42809110",
-    "baslik": "The utilisation of international consensus definitions of the disease polytrauma: a systematic review.",
-    "dergi": "Eur J Trauma Emerg Surg",
-    "doi": "10.1007/s00068-026-03339-6",
-    "tipler": [
-      "Journal Article",
-      "Systematic Review",
-      "Review"
-    ],
-    "mesh": [
-      "Humans",
-      "Multiple Trauma",
-      "Consensus",
-      "Terminology as Topic"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "29",
-    "gerekce": [
-      "Systematic Review +6",
-      "B dergisi +3"
-    ],
-    "puan": 9,
-    "konular": [],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42809107": {
-    "pmid": "42809107",
-    "baslik": "What to do with K-wires in displaced upper extremity fractures in children - where to bury or not.",
-    "dergi": "Eur J Trauma Emerg Surg",
-    "doi": "10.1007/s00068-026-03353-8",
-    "tipler": [
-      "Journal Article",
-      "Systematic Review",
-      "Meta-Analysis"
-    ],
-    "mesh": [
-      "Child",
-      "Humans",
-      "Bone Wires",
-      "Fracture Fixation, Internal",
-      "Fractures, Bone",
-      "Postoperative Complications",
-      "Surgical Wound Infection"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "29",
-    "gerekce": [
-      "Systematic Review +6",
-      "B dergisi +3"
-    ],
-    "puan": 9,
-    "konular": [],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42804696": {
-    "pmid": "42804696",
-    "baslik": "AI Chatbot Use for Human Papillomavirus Vaccine Literacy in Japan: A Randomized Clinical Trial.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.34696",
-    "tipler": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Adolescent",
-      "Adult",
-      "Child",
-      "Female",
-      "Humans",
-      "Middle Aged",
-      "Caregivers",
-      "Health Literacy",
-      "Japan",
-      "Papillomavirus Infections",
-      "Papillomavirus Vaccines",
-      "Generative Artificial Intelligence"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "Randomized Controlled Trial +8",
-      "A dergisi +6"
-    ],
-    "puan": 14,
-    "konular": [],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
   "42804570": {
     "pmid": "42804570",
     "baslik": "2026 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.",
@@ -2055,124 +1555,6 @@
     "konular": [],
     "eklendi": "2026-10-02",
     "sayi": 9
-  },
-  "42804206": {
-    "pmid": "42804206",
-    "baslik": "Presenting Symptoms and Antibiotic Timing Among Hospitalized Adults With Presumed Sepsis.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.35575",
-    "tipler": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Male",
-      "Anti-Bacterial Agents",
-      "Aged",
-      "Female",
-      "Sepsis",
-      "Aged, 80 and over",
-      "Middle Aged",
-      "Michigan",
-      "Cohort Studies",
-      "Hospitalization",
-      "Hypotension",
-      "Treatment Delay",
-      "Time-to-Treatment"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 10,
-    "konular": [
-      "Sepsis"
-    ],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42804204": {
-    "pmid": "42804204",
-    "baslik": "Rural Hospital Closures and Mortality From Time-Sensitive Conditions in Texas.",
-    "dergi": "JAMA Netw Open",
-    "doi": "10.1001/jamanetworkopen.2026.36325",
-    "tipler": [
-      "Journal Article"
-    ],
-    "mesh": [
-      "Humans",
-      "Texas",
-      "Hospitals, Rural",
-      "Health Facility Closure",
-      "Stroke",
-      "Myocardial Infarction",
-      "Female",
-      "Male",
-      "Asthma",
-      "Aged",
-      "Sepsis",
-      "Pulmonary Disease, Chronic Obstructive",
-      "Middle Aged",
-      "Cohort Studies",
-      "Time Factors",
-      "Rural Population"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "01",
-    "gerekce": [
-      "A dergisi +6",
-      "öncelikli konu +4"
-    ],
-    "puan": 10,
-    "konular": [
-      "Sepsis",
-      "Solunum",
-      "Kardiyoloji",
-      "Nöroloji"
-    ],
-    "eklendi": "2026-10-02",
-    "sayi": null
-  },
-  "42791581": {
-    "pmid": "42791581",
-    "baslik": "Increased ureagenesis revealing metabolic intolerance to enhanced nutrition in the PICU: a secondary analysis of the PEPaNIC RCT.",
-    "dergi": "Crit Care",
-    "doi": "10.1186/s13054-026-06345-7",
-    "tipler": [
-      "Journal Article",
-      "Randomized Controlled Trial"
-    ],
-    "mesh": [
-      "Humans",
-      "Intensive Care Units, Pediatric",
-      "Female",
-      "Child, Preschool",
-      "Urea",
-      "Parenteral Nutrition",
-      "Infant",
-      "Child",
-      "Male",
-      "Adolescent",
-      "Infant, Newborn",
-      "Critical Illness",
-      "Proportional Hazards Models",
-      "Logistic Models"
-    ],
-    "yil": "2026",
-    "ay": "Sep",
-    "gun": "25",
-    "gerekce": [
-      "Randomized Controlled Trial +8",
-      "B dergisi +3"
-    ],
-    "puan": 11,
-    "konular": [],
-    "eklendi": "2026-10-02",
-    "sayi": null
   },
   "42791574": {
     "pmid": "42791574",
@@ -5890,7 +5272,7 @@
     "puan": 16,
     "konular": [],
     "eklendi": "2026-11-13",
-    "sayi": null
+    "sayi": 16
   },
   "43015817": {
     "pmid": "43015817",
@@ -5969,7 +5351,7 @@
     "puan": 16,
     "konular": [],
     "eklendi": "2026-11-13",
-    "sayi": null
+    "sayi": 16
   },
   "43014818": {
     "pmid": "43014818",
@@ -6382,6 +5764,962 @@
       "Nöroloji"
     ],
     "eklendi": "2026-11-13",
+    "sayi": null
+  },
+  "43058869": {
+    "pmid": "43058869",
+    "baslik": "Discordant evidence on corticosteroids in sepsis: a meta-research study.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06471-2",
+    "tipler": [
+      "Journal Article",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Sepsis",
+      "Adrenal Cortex Hormones",
+      "Randomized Controlled Trials as Topic"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "19",
+    "gerekce": [
+      "Meta-Analysis +6",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 13,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43058746": {
+    "pmid": "43058746",
+    "baslik": "Family members' experiences of death and organ donation in intensive and critical care units: a qualitative systematic review with thematic synthesis.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06243-y",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Tissue and Organ Procurement",
+      "Family",
+      "Intensive Care Units",
+      "Qualitative Research",
+      "Attitude to Death",
+      "Brain Death",
+      "Death"
+    ],
+    "yil": "2026",
+    "ay": "Aug",
+    "gun": "26",
+    "gerekce": [
+      "Systematic Review +6",
+      "B dergisi +3"
+    ],
+    "puan": 9,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43056654": {
+    "pmid": "43056654",
+    "baslik": "Efficacy and Safety of 2 Rimegepant Dosing Regimens for the Prevention of Episodic Migraine: A Randomized Controlled Study.",
+    "dergi": "Neurology",
+    "doi": "10.1212/WNL.0000000000218773",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Clinical Trial, Phase IV"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Adult",
+      "Double-Blind Method",
+      "Male",
+      "Migraine Disorders",
+      "Middle Aged",
+      "Pyridines",
+      "Treatment Outcome",
+      "Piperidines",
+      "Dose-Response Relationship, Drug"
+    ],
+    "yil": "2026",
+    "ay": "Dec",
+    "gun": "22",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "B dergisi +3"
+    ],
+    "puan": 13,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43056116": {
+    "pmid": "43056116",
+    "baslik": "Milk Fat Globule Membrane-Enriched Formula and Cognition Among Formula-Fed Infants: A Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.44537",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Infant Formula",
+      "Glycolipids",
+      "Infant",
+      "Cognition",
+      "Male",
+      "Lipid Droplets",
+      "Glycoproteins",
+      "Female",
+      "Child Development",
+      "Breast Feeding",
+      "New Zealand",
+      "Infant, Newborn"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "02",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "A dergisi +6"
+    ],
+    "puan": 14,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43056114": {
+    "pmid": "43056114",
+    "baslik": "Bystander CPR Type and Outcomes After Pediatric Out-of-Hospital Cardiac Arrest.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.44991",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Out-of-Hospital Cardiac Arrest",
+      "Cardiopulmonary Resuscitation",
+      "Male",
+      "Japan",
+      "Female",
+      "Child, Preschool",
+      "Child",
+      "Infant",
+      "Adolescent",
+      "Registries",
+      "Cohort Studies",
+      "Emergency Medical Services",
+      "Survival Rate",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "02",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Resüsitasyon"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43053187": {
+    "pmid": "43053187",
+    "baslik": "Endotracheal intubation practices, success rates and adverse events in four Dutch emergency departments: a multicentre retrospective study.",
+    "dergi": "Scand J Trauma Resusc Emerg Med",
+    "doi": "10.1186/s13049-026-01679-1",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Intubation, Intratracheal",
+      "Retrospective Studies",
+      "Netherlands",
+      "Emergency Service, Hospital",
+      "Female",
+      "Male",
+      "Middle Aged",
+      "Aged",
+      "Adult"
+    ],
+    "yil": "2026",
+    "ay": "Aug",
+    "gun": "22",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Havayolu"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43053186": {
+    "pmid": "43053186",
+    "baslik": "CT-based radiomics for interpretable outcome prediction after aneurysmal subarachnoid hemorrhage: a multicenter cohort study.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06445-4",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Radiomics",
+      "Subarachnoid Hemorrhage",
+      "Tomography, X-Ray Computed",
+      "Cohort Studies",
+      "Female",
+      "Male",
+      "Middle Aged",
+      "Prognosis",
+      "ROC Curve",
+      "Registries"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "04",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Nöroloji"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43053147": {
+    "pmid": "43053147",
+    "baslik": "Effect of megadose vitamin C in patients with sepsis: the CEMVIS randomized clinical trial.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06280-7",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Ascorbic Acid",
+      "Female",
+      "Sepsis",
+      "Aged",
+      "Male",
+      "China",
+      "Middle Aged",
+      "Single-Blind Method",
+      "Shock, Septic",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Aug",
+    "gun": "24",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 17,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": 16
+  },
+  "43052529": {
+    "pmid": "43052529",
+    "baslik": "Predicting mortality in pediatric cases with severe traumatic brain injury: is the Eppendorf-Cologne Scale more reliable than Glasgow Coma Scale?",
+    "dergi": "Eur J Trauma Emerg Surg",
+    "doi": "10.1007/s00068-026-03382-3",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Brain Injuries, Traumatic",
+      "Glasgow Coma Scale",
+      "Female",
+      "Male",
+      "Child",
+      "Prognosis",
+      "Child, Preschool",
+      "Predictive Value of Tests",
+      "Hospital Mortality",
+      "Adolescent",
+      "Infant",
+      "Registries"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "18",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Travma"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43052007": {
+    "pmid": "43052007",
+    "baslik": "Physical activity coaching and text messaging for adults with mobility limitations (ComeBACK): hybrid type 1 effectiveness implementation randomised controlled trial.",
+    "dergi": "BMJ",
+    "doi": "10.1136/bmj-2026-101157",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Pragmatic Clinical Trial",
+      "Equivalence Trial",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Text Messaging",
+      "Female",
+      "Mobility Limitation",
+      "Mentoring",
+      "Aged",
+      "Male",
+      "Middle Aged",
+      "Exercise",
+      "Australia",
+      "Walking"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "18",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": 16
+  },
+  "43051685": {
+    "pmid": "43051685",
+    "baslik": "Effect of intrapartum hyoscine butylbromide and sodium bicarbonate on spontaneous vaginal birth in nulliparous women after induction of labour (SAINT): multicentre randomised placebo controlled factorial trial.",
+    "dergi": "BMJ",
+    "doi": "10.1136/bmj-2026-101069",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Clinical Trial, Phase III"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Pregnancy",
+      "Adult",
+      "Butylscopolammonium Bromide",
+      "Double-Blind Method",
+      "Parity",
+      "Sodium Bicarbonate",
+      "Labor, Induced",
+      "Young Adult",
+      "Adolescent",
+      "Muscarinic Antagonists",
+      "Middle Aged",
+      "Norway",
+      "Drug Therapy, Combination"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "18",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": 16
+  },
+  "43051188": {
+    "pmid": "43051188",
+    "baslik": "Application of the 2024 McDonald multiple sclerosis criteria in the international Acute Optic Neuritis Network (ACON): a cross-sectional cohort study.",
+    "dergi": "Lancet Neurol",
+    "doi": "10.1016/S1474-4422(26)00352-2",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study",
+      "Observational Study"
+    ],
+    "mesh": [
+      "Adult",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Young Adult",
+      "Aquaporin 4",
+      "Cohort Studies",
+      "Cross-Sectional Studies",
+      "Magnetic Resonance Imaging",
+      "Multiple Sclerosis",
+      "Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease",
+      "Myelin-Oligodendrocyte Glycoprotein",
+      "Neuromyelitis Optica",
+      "Optic Neuritis",
+      "Prospective Studies"
+    ],
+    "yil": "2026",
+    "ay": "Dec",
+    "gun": "",
+    "gerekce": [
+      "Multicenter Study +2",
+      "Observational Study +1",
+      "A dergisi +6"
+    ],
+    "puan": 9,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43051187": {
+    "pmid": "43051187",
+    "baslik": "Early middle meningeal artery embolisation plus standard treatment versus standard treatment alone for chronic subdural haematoma in France (OTEMACS): a randomised, open-label, controlled trial.",
+    "dergi": "Lancet Neurol",
+    "doi": "10.1016/S1474-4422(26)00360-1",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Embolization, Therapeutic",
+      "Hematoma, Subdural, Chronic",
+      "Male",
+      "Meningeal Arteries",
+      "France",
+      "Aged",
+      "Middle Aged",
+      "Treatment Outcome",
+      "Aged, 80 and over",
+      "Combined Modality Therapy"
+    ],
+    "yil": "2026",
+    "ay": "Dec",
+    "gun": "",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43051186": {
+    "pmid": "43051186",
+    "baslik": "Safety and efficacy of daily oral edaravone (FNP122) in patients with amyotrophic lateral sclerosis (ADORE): a multicentre, double-blind, phase 3, randomised controlled trial.",
+    "dergi": "Lancet Neurol",
+    "doi": "10.1016/S1474-4422(26)00336-4",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III"
+    ],
+    "mesh": [
+      "Adult",
+      "Aged",
+      "Aged, 80 and over",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Young Adult",
+      "Administration, Oral",
+      "Amyotrophic Lateral Sclerosis",
+      "Double-Blind Method",
+      "Edaravone",
+      "Free Radical Scavengers",
+      "Treatment Outcome"
+    ],
+    "yil": "2026",
+    "ay": "Dec",
+    "gun": "",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43050661": {
+    "pmid": "43050661",
+    "baslik": "Acute Respiratory Distress Syndrome.",
+    "dergi": "N Engl J Med",
+    "doi": "10.1056/NEJMra2601172",
+    "tipler": [
+      "Journal Article",
+      "Review"
+    ],
+    "mesh": [
+      "Humans",
+      "Glucocorticoids",
+      "Positive-Pressure Respiration",
+      "Respiration, Artificial",
+      "Respiratory Distress Syndrome",
+      "Respiratory Insufficiency",
+      "Sepsis",
+      "Respiratory Aspiration of Gastric Contents",
+      "Wounds and Injuries"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "19",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Travma",
+      "Sepsis",
+      "Solunum"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43050191": {
+    "pmid": "43050191",
+    "baslik": "Prevalence of Chronic Traumatic Encephalopathy Without Contact Sport Repetitive Head Impact Exposure: A Systematic Review and Meta-Analysis.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.43928",
+    "tipler": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Humans",
+      "Chronic Traumatic Encephalopathy",
+      "Prevalence"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "02",
+    "gerekce": [
+      "Systematic Review +6",
+      "A dergisi +6"
+    ],
+    "puan": 12,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43050189": {
+    "pmid": "43050189",
+    "baslik": "Multicomponent Lifestyle Intervention and Brain Aging: A Secondary Analysis of a Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.44426",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Aged",
+      "Aged, 80 and over",
+      "Female",
+      "Humans",
+      "Male",
+      "Aging",
+      "Brain",
+      "Cognitive Dysfunction",
+      "Cognitive Enhancement",
+      "Cognitive Training",
+      "Exercise",
+      "Life Style",
+      "Magnetic Resonance Imaging",
+      "Single-Blind Method"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "02",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43049118": {
+    "pmid": "43049118",
+    "baslik": "Intravascular Lithotripsy vs Super-High-Pressure Noncompliant Balloons for Treatment of Calcified Coronary Lesions: The VICTORY Trial.",
+    "dergi": "J Am Coll Cardiol",
+    "doi": "10.1016/j.jacc.2026.09.016",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Equivalence Trial",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Female",
+      "Lithotripsy",
+      "Coronary Artery Disease",
+      "Male",
+      "Aged",
+      "Angioplasty, Balloon, Coronary",
+      "Middle Aged",
+      "Vascular Calcification",
+      "Drug-Eluting Stents",
+      "Treatment Outcome",
+      "Tomography, Optical Coherence"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "17",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "B dergisi +3"
+    ],
+    "puan": 11,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43040530": {
+    "pmid": "43040530",
+    "baslik": "Development and external validation of age-specific predictive models for sepsis in critically ill neonates and children using multidimensional hematological parameters: a multicenter retrospective study.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06261-w",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Sepsis",
+      "Critical Illness",
+      "Retrospective Studies",
+      "Infant, Newborn",
+      "Female",
+      "Male",
+      "Infant",
+      "Intensive Care Units, Pediatric",
+      "Child, Preschool",
+      "ROC Curve",
+      "China",
+      "Area Under Curve",
+      "Boosting Machine Learning Algorithms",
+      "Predictive Learning Models",
+      "Blood Cell Count"
+    ],
+    "yil": "2026",
+    "ay": "Aug",
+    "gun": "20",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Sepsis"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43040521": {
+    "pmid": "43040521",
+    "baslik": "Ventilator-circuit configurations for noninvasive ventilation in infants with acute respiratory failure: a randomized crossover trial.",
+    "dergi": "Crit Care",
+    "doi": "10.1186/s13054-026-06447-2",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Cross-Over Studies",
+      "Noninvasive Ventilation",
+      "Infant",
+      "Female",
+      "Male",
+      "Respiratory Insufficiency",
+      "Patient-Ventilator Asynchrony",
+      "Equipment Design",
+      "Ventilators, Mechanical"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "10",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 15,
+    "konular": [
+      "Solunum"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43038487": {
+    "pmid": "43038487",
+    "baslik": "Robustness of Plasma P-Tau217 Diagnostic Thresholds for Alzheimer Disease Across Various Clinical Populations and Laboratory Environments.",
+    "dergi": "Neurology",
+    "doi": "10.1212/WNL.0000000000218784",
+    "tipler": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Alzheimer Disease",
+      "tau Proteins",
+      "Female",
+      "Cross-Sectional Studies",
+      "Male",
+      "Biomarkers",
+      "Amyloid beta-Peptides",
+      "Aged",
+      "Phosphorylation",
+      "Sensitivity and Specificity",
+      "Peptide Fragments",
+      "Cohort Studies",
+      "Positron-Emission Tomography",
+      "Frontotemporal Lobar Degeneration"
+    ],
+    "yil": "2026",
+    "ay": "Dec",
+    "gun": "08",
+    "gerekce": [
+      "Multicenter Study +2",
+      "B dergisi +3",
+      "öncelikli konu +4"
+    ],
+    "puan": 9,
+    "konular": [
+      "Tanısal"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43038430": {
+    "pmid": "43038430",
+    "baslik": "Biatrial Versus Left Atrial Maze Ablation During Cardiac Valve Surgery for Persistent Atrial Fibrillation: The ABLATION Trial.",
+    "dergi": "Circulation",
+    "doi": "10.1161/CIRCULATIONAHA.126.083005",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Comparative Study"
+    ],
+    "mesh": [
+      "Atrial Fibrillation",
+      "Humans",
+      "Female",
+      "Male",
+      "Middle Aged",
+      "Maze Procedure",
+      "Catheter Ablation",
+      "Single-Blind Method",
+      "Aged",
+      "Treatment Outcome",
+      "Heart Atria",
+      "Cardiac Surgical Procedures",
+      "Mitral Valve"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "17",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43037987": {
+    "pmid": "43037987",
+    "baslik": "Multilevel Mobility Intervention and Life-Space Mobility in Older Hospitalized Medical Patients: A Cluster Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.43903",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Multicenter Study",
+      "Equivalence Trial"
+    ],
+    "mesh": [
+      "Humans",
+      "Hospitalization",
+      "Male",
+      "Female",
+      "Aged",
+      "Switzerland",
+      "Mobility Limitation",
+      "Aged, 80 and over",
+      "Activities of Daily Living"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "02",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43037986": {
+    "pmid": "43037986",
+    "baslik": "Study Rationale, Enrollment Characteristics, and Central Review of Clinical Stage: The INTACT Randomized Clinical Trial.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.44122",
+    "tipler": [
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
+    ],
+    "mesh": [
+      "Humans",
+      "Urinary Bladder Neoplasms",
+      "Female",
+      "Neoplasm Staging",
+      "Male",
+      "Aged",
+      "Antibodies, Monoclonal, Humanized",
+      "Middle Aged",
+      "Chemoradiotherapy",
+      "Patient Selection"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "02",
+    "gerekce": [
+      "Randomized Controlled Trial +8",
+      "Multicenter Study +2",
+      "A dergisi +6"
+    ],
+    "puan": 16,
+    "konular": [],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43037983": {
+    "pmid": "43037983",
+    "baslik": "Sudden Deaths From Aneurysmal Subarachnoid Hemorrhage and Proximity to Neurosurgical Tertiary Care.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.44245",
+    "tipler": [
+      "Journal Article"
+    ],
+    "mesh": [
+      "Humans",
+      "Subarachnoid Hemorrhage",
+      "Female",
+      "Finland",
+      "Male",
+      "New Zealand",
+      "Retrospective Studies",
+      "Middle Aged",
+      "Aged",
+      "Tertiary Care Centers",
+      "Adult"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "02",
+    "gerekce": [
+      "A dergisi +6",
+      "öncelikli konu +4"
+    ],
+    "puan": 10,
+    "konular": [
+      "Nöroloji"
+    ],
+    "eklendi": "2026-11-20",
+    "sayi": null
+  },
+  "43037982": {
+    "pmid": "43037982",
+    "baslik": "Resistance Exercise Training for Depressive Symptoms: A Meta-Analysis and Meta-Regression Analysis.",
+    "dergi": "JAMA Netw Open",
+    "doi": "10.1001/jamanetworkopen.2026.44254",
+    "tipler": [
+      "Journal Article",
+      "Meta-Analysis"
+    ],
+    "mesh": [
+      "Adult",
+      "Female",
+      "Humans",
+      "Male",
+      "Middle Aged",
+      "Depression",
+      "Randomized Controlled Trials as Topic",
+      "Regression Analysis",
+      "Resistance Training"
+    ],
+    "yil": "2026",
+    "ay": "Nov",
+    "gun": "02",
+    "gerekce": [
+      "Meta-Analysis +6",
+      "A dergisi +6"
+    ],
+    "puan": 12,
+    "konular": [],
+    "eklendi": "2026-11-20",
     "sayi": null
   }
 }

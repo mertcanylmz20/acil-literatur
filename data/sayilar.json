@@ -2724,5 +2724,206 @@
         "sayi": 15
       }
     ]
+  },
+  {
+    "no": 16,
+    "tarih": "2026-11-20",
+    "kayitlar": [
+      {
+        "pmid": "43053147",
+        "baslik": "Effect of megadose vitamin C in patients with sepsis: the CEMVIS randomized clinical trial.",
+        "dergi": "Crit Care",
+        "doi": "10.1186/s13054-026-06280-7",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Ascorbic Acid",
+          "Female",
+          "Sepsis",
+          "Aged",
+          "Male",
+          "China",
+          "Middle Aged",
+          "Single-Blind Method",
+          "Shock, Septic",
+          "Treatment Outcome"
+        ],
+        "yil": "2026",
+        "ay": "Aug",
+        "gun": "24",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "B dergisi +3",
+          "öncelikli konu +4"
+        ],
+        "puan": 17,
+        "konular": [
+          "Sepsis"
+        ],
+        "eklendi": "2026-11-20",
+        "sayi": 16
+      },
+      {
+        "pmid": "43018972",
+        "baslik": "Hand-Arm Bimanual Intensive Therapy Including Lower Extremities in Preschoolers With Bilateral Cerebral Palsy: A Randomized Clinical Trial.",
+        "dergi": "JAMA Netw Open",
+        "doi": "10.1001/jamanetworkopen.2026.43492",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Cerebral Palsy",
+          "Child, Preschool",
+          "Male",
+          "Female",
+          "Lower Extremity",
+          "Infant",
+          "Treatment Outcome",
+          "Motor Skills",
+          "Hand"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "02",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-11-13",
+        "sayi": 16
+      },
+      {
+        "pmid": "43014822",
+        "baslik": "Effect of discontinuing antihypertensives on perioperative hypotension in older patients before non-cardiac surgery: multicentre, randomised, double blind, controlled trial.",
+        "dergi": "BMJ",
+        "doi": "10.1136/bmj-2026-101087",
+        "tipler": [
+          "Journal Article",
+          "Multicenter Study",
+          "Randomized Controlled Trial"
+        ],
+        "mesh": [
+          "Humans",
+          "Hypotension",
+          "Double-Blind Method",
+          "Aged",
+          "Male",
+          "Female",
+          "Aged, 80 and over",
+          "Treatment Interruption",
+          "Antihypertensive Agents",
+          "Angiotensin-Converting Enzyme Inhibitors",
+          "Angiotensin Receptor Antagonists",
+          "Middle Aged",
+          "Postoperative Complications",
+          "Intraoperative Complications",
+          "China",
+          "Surgical Procedures, Operative",
+          "Geriatric Anesthesia"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "11",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-11-13",
+        "sayi": 16
+      },
+      {
+        "pmid": "43052007",
+        "baslik": "Physical activity coaching and text messaging for adults with mobility limitations (ComeBACK): hybrid type 1 effectiveness implementation randomised controlled trial.",
+        "dergi": "BMJ",
+        "doi": "10.1136/bmj-2026-101157",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Pragmatic Clinical Trial",
+          "Equivalence Trial",
+          "Multicenter Study"
+        ],
+        "mesh": [
+          "Humans",
+          "Text Messaging",
+          "Female",
+          "Mobility Limitation",
+          "Mentoring",
+          "Aged",
+          "Male",
+          "Middle Aged",
+          "Exercise",
+          "Australia",
+          "Walking"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "18",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-11-20",
+        "sayi": 16
+      },
+      {
+        "pmid": "43051685",
+        "baslik": "Effect of intrapartum hyoscine butylbromide and sodium bicarbonate on spontaneous vaginal birth in nulliparous women after induction of labour (SAINT): multicentre randomised placebo controlled factorial trial.",
+        "dergi": "BMJ",
+        "doi": "10.1136/bmj-2026-101069",
+        "tipler": [
+          "Journal Article",
+          "Randomized Controlled Trial",
+          "Multicenter Study",
+          "Clinical Trial, Phase III"
+        ],
+        "mesh": [
+          "Humans",
+          "Female",
+          "Pregnancy",
+          "Adult",
+          "Butylscopolammonium Bromide",
+          "Double-Blind Method",
+          "Parity",
+          "Sodium Bicarbonate",
+          "Labor, Induced",
+          "Young Adult",
+          "Adolescent",
+          "Muscarinic Antagonists",
+          "Middle Aged",
+          "Norway",
+          "Drug Therapy, Combination"
+        ],
+        "yil": "2026",
+        "ay": "Nov",
+        "gun": "18",
+        "gerekce": [
+          "Randomized Controlled Trial +8",
+          "Multicenter Study +2",
+          "A dergisi +6"
+        ],
+        "puan": 16,
+        "konular": [],
+        "eklendi": "2026-11-20",
+        "sayi": 16
+      }
+    ]
   }
 ]
